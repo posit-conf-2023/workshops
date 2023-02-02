@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "posit::conf(2023) workshops"
+  site-url: https://posit-conf-2023.github.io/website
+  description: "posit::conf(2023) workshops"
+
+  repo-url: https://github.com/posit-conf-2023/workshops
+  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  navbar:
+    left:
+      - text: Workshops
+        href: index.qmd
+
+format:
+  html:
+    mainfont: "Atkinson Hyperlegible"
+
+editor: visual

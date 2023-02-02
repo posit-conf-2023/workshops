@@ -1,0 +1,39 @@
+---
+title: "Workshops"
+listing:
+  - id: one-day
+    contents:
+      - workshops/one-day/*/index.qmd
+    type: table
+    sort: 
+      - "date"
+      - "categories"
+    filter-ui: true
+    fields: [date, title, author, categories]
+    field-display-names:
+      author: "Presenter"
+      categories: "Focus"
+  - id: two-day
+    contents:
+      - workshops/two-day/*/index.qmd
+    type: table
+    sort: 
+      - "categories"
+    filter-ui: true
+    fields: [title, author, categories]
+    field-display-names:
+      author: "Presenter"
+      categories: "Focus"
+page-layout: full
+title-block-banner: true
+---
+
+# One-day workshops
+
+::: {#one-day}
+:::
+
+# Two-day workshops
+
+::: {#two-day}
+:::
