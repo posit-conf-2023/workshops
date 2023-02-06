@@ -1,7 +1,7 @@
 ---
 title: "Steal like an Rtist: Creative Coding in R"
 author: "Ijeamaka Anyene Fumagalli + Sharla Gelfand"
-date: "2023-09-18"
+date: "2023-09-17"
 description: "x"
 subtitle: " "
 categories: 

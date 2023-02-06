@@ -9,6 +9,7 @@
       "/workshops/modeling-intro/index.html",
       "/workshops/pkgdev-masterclass-1/index.html",
       "/workshops/shiny-python/index.html",
+      "/workshops/programming-art/index.html",
       "/workshops/forecasting/index.html",
       "/workshops/shiny-ui/index.html",
       "/workshops/modeling-advanced-2/index.html",
@@ -17,7 +18,6 @@
       "/workshops/pkgdev-masterclass-2/index.html",
       "/workshops/shiny-production/index.html",
       "/workshops/shiny-dashboard/index.html",
-      "/workshops/programming-art/index.html",
       "/workshops/teach-ds/index.html"
     ]
   }
