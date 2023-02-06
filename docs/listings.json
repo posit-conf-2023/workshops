@@ -2,22 +2,23 @@
   {
     "listing": "/index.html",
     "items": [
-      "/workshops/one-day/dataviz-storytelling/index.html",
-      "/workshops/one-day/pkgdev-masterclass-1/index.html",
-      "/workshops/one-day/shiny-python/index.html",
-      "/workshops/one-day/shiny-r/index.html",
-      "/workshops/one-day/shiny-ui/index.html",
-      "/workshops/one-day/modeling-advanced-1/index.html",
-      "/workshops/one-day/dataviz-ggplot2/index.html",
-      "/workshops/one-day/modeling-deploy/index.html",
-      "/workshops/one-day/pkgdev-masterclass-2/index.html",
-      "/workshops/one-day/programming-art/index.html",
-      "/workshops/one-day/shiny-dashboard/index.html",
-      "/workshops/one-day/shiny-production/index.html",
-      "/workshops/one-day/modeling-advanced-2/index.html",
-      "/workshops/one-day/modeling-intro/index.html",
-      "/workshops/two-day/posit-admin/index.html",
-      "/workshops/two-day/forecasting/index.html"
+      "/workshops/posit-admin/index.html",
+      "/workshops/modeling-advanced-1/index.html",
+      "/workshops/dataviz-storytelling/index.html",
+      "/workshops/shiny-r/index.html",
+      "/workshops/modeling-intro/index.html",
+      "/workshops/pkgdev-masterclass-1/index.html",
+      "/workshops/shiny-python/index.html",
+      "/workshops/forecasting/index.html",
+      "/workshops/shiny-ui/index.html",
+      "/workshops/modeling-advanced-2/index.html",
+      "/workshops/modeling-deploy/index.html",
+      "/workshops/dataviz-ggplot2/index.html",
+      "/workshops/pkgdev-masterclass-2/index.html",
+      "/workshops/shiny-production/index.html",
+      "/workshops/shiny-dashboard/index.html",
+      "/workshops/programming-art/index.html",
+      "/workshops/teach-ds/index.html"
     ]
   }
 ]

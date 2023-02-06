@@ -1,0 +1,32 @@
+---
+title: "Introduction to tidymodels"
+author: "Hannah Frick + Simon Couch + Emil Hvidfeldt"
+date: "2023-09-17"
+description: "x"
+subtitle: " "
+categories: [tidymodels]
+---
+
+# Abstract
+
+The workshop will teach you core tidymodels packages and their uses: data splitting/resampling with rsample, model fitting with parsnip, measuring model performance with yardstick, and basic pre-processing with recipes.
+Time permitting, you'll be introduced to model optimization using the tune package.
+You'll learn tidymodels syntax as well as the process of predictive modeling for tabular data.
+
+# Target audience
+
+This workshop is for you if you:
+
+-   have intermediate R knowledge, experience with tidyverse packages, and either of the R pipes.
+-   can read data into R, transform and reshape data, and make a wide variety of graphs.
+-   have had some exposure to basic statistical concepts such as linear models or random forests etc. Intermediate or expert familiarity with modeling or machine learning NOT required.
+
+# Bio
+
+**Hannah Frick** is a software engineer and statistician on the tidymodels team at RStudio.
+The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
+She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.
+
+**Simon Couch** works on software for statistical modeling on the tidymodels team at Posit.
+With a background in statistics and sociology, Simon is passionate about free and open source software and data pedagogy.
+He is an author and maintainer of several R packages, including the stacks package, which was awarded the 2021 John M. Chambers Statistical Software Award.

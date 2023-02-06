@@ -1,0 +1,44 @@
+---
+title: "Tidy time series and forecasting in R"
+author: "Rob Hyndman"
+date: "2023-09-17"
+description: "x"
+subtitle: "x"
+categories: [forecasting]
+---
+
+# Abstract
+
+It is common for organizations to collect huge amounts of data over time, and existing time series analysis tools are not always suitable to handle the scale, frequency and structure of the data collected.
+In this workshop, we will look at some packages and methods that have been developed to handle the analysis of large collections of time series.
+
+On day 1, we will look at the tsibble data structure for flexibly managing collections of related time series.
+We will look at how to do data wrangling, data visualizations and exploratory data analysis.
+We will explore feature-based methods to explore time series data in high dimensions.
+A similar feature-based approach can be used to identify anomalous time series within a collection of time series, or to cluster or classify time series.
+Primary packages for day 1 will be tsibble, lubridate and feasts (along with the tidyverse of course).
+
+Day 2 will be about forecasting.
+We will look at some classical time series models and how they are automated in the fable package, and we will explore the creation of ensemble forecasts and hybrid forecasts.
+Best practices for evaluating forecast accuracy will also be covered.
+Finally, we will look at forecast reconciliation, allowing millions of time series to be forecast in a relatively short time while accounting for constraints on how the series are related.
+
+# Target audience
+
+This course is for you if:
+
+-   you already use the tidyverse packages in R such as dplyr, tidyr, tibble and ggplot2
+-   you need to analyse large collections of related time series
+-   you would like to learn how to use some tidy tools for time series analysis including visualization, decomposition and forecasting
+
+# Bio
+
+Rob J Hyndman is Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University.
+From 2005 to 2018 he was Editor-in-Chief of the International Journal of Forecasting and a Director of the International Institute of Forecasters.
+Rob is the author of over 200 research papers and 5 books in statistical science.
+He is an elected Fellow of both the Australian Academy of Science and the Academy of Social Sciences in Australia.
+In 2007, he received the Moran medal from the Australian Academy of Science for his contributions to statistical research, especially in the area of statistical forecasting.
+In 2021, he received the Pitman medal from the Statistical Society of Australia.
+For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world.
+He has won awards for his research, teaching, consulting and graduate supervision.
+

@@ -1,0 +1,46 @@
+---
+title: "Shiny for Python: Building a Financial Stock Analysis Application from Scratch"
+author: "Matt Dancho"
+date: "2023-09-17"
+description: "x"
+subtitle: " "
+categories: [shiny]
+---
+
+# Abstract
+
+Shiny for Python is a new technology for automating business analysis and data science for organizations that use Python and want to get applications into production in days (not months or years).
+In this one-day workshop, students learn how to progressively build a Shiny for Python application using a "4-Step Shiny for Python Build Framework" on a real business case study that benefits both organizations and individuals.
+Students first discover how to integrate a financial API using yfinance, a popular python library for retrieving company financial data, into a Shiny for Python web application.
+Students then learn how to apply the "4-Step Shiny for Python Build Framework" to automate the complete financial analysis for any of the 507 stocks listed on the S&P 500 index.
+Students leave with the code, knowledge, and a complete framework for building Shiny applications in Python.
+
+## FAQ
+
+1.  What if I'm a complete beginner?
+
+It's beneficial to have used R or Python before.
+With that said, all concepts will be explained thoroughly. 
+
+2.  What if I've never built a Shiny app before?
+
+That's perfect.
+I'll show you how with my 4-step framework. 
+
+3.  Do I need experience working with financial data?
+
+No prior financial experience is required.
+
+# Target audience
+
+This course is for you if:
+
+-   you are an R programmer interested in transitioning your skills from R to Python
+-   you are a Python programmer interested in automating business analysis with Shiny for Python
+-   you are interested in financial analysis with Shiny and Python
+
+# Bio
+
+**Matt Dancho** is the founder of Business Science, an educational platform that teaches students how to apply data science to business problems.
+He is the author of several popular R packages including tidyquant, modeltime, and timetk.
+Prior to leading Business Science, Matt has consulted for Fortune 500 companies including S&P Global, Ingredion, and MRM McCann, and has 15+ years of industry experience in marketing & sales analytics, demand forecasting, and finance.
