@@ -35,15 +35,10 @@ This course is for you if you:
 
 # Instructor
 
-::: callout-warning
-Need info from Travis
-:::
-
 **Malcolm Barrett** is a data scientist and an epidemiologist.
 During his Ph.D., he studied vision loss, focusing on epidemiologic methods.
 He's since worked in the private sector, including Teladoc Health and Apple.
 Malcolm is also the author of several causal inference-focused R packages, such as ggdag and tidysmd.
 He regularly contributes to other open source software, including favorite community projects like usethis, ggplot2, R Markdown.
 
-**Travis Gerke** is ...
-
+**Travis Gerke** is a post-academic leading data science teams for clinical trials. In his graduate training (AM Biostatistics and ScD Epidemiology, Harvard), Travis was fortunate to learn from key leaders in the causal inference domain, and he is thrilled to pass along relevant insights in this workshop. Like Malcolm, Travis enjoys developing R packages (shinyDAG, ggconsort, ggswimlane), and is an active member of the wonderful R community.
