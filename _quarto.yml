@@ -15,8 +15,7 @@ website:
   navbar:
     background: "#447099"
     left:
-      - text: Workshops
-        href: index.qmd
+      - href: index.qmd
 
 format:
   html:

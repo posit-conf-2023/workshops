@@ -23,6 +23,10 @@ Participants who have completed the "Introduction to tidymodels" workshop will b
 
 # Audience
 
+::: callout-warning
+Need one more bullet point.
+:::
+
 This workshop is for you if you:
 
 -   have used tidymodels packages like recipes, rsample, and parsnip and are comfortable with tidyverse syntax (e.g. piping, mutates, pivoting),
@@ -39,3 +43,4 @@ He was applying models in the pharmaceutical and diagnostic industries for over 
 Max has a Ph.D. in Biostatistics.
 He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association.
 Their second book, Feature Engineering and Selection, was published in 2019 and the book Tidy Models with R was published in 2022.
+
