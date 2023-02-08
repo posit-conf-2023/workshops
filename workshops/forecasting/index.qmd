@@ -40,7 +40,7 @@ This course is for you if you:
 
 # Instructor
 
-**Rob J Hyndman** is Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University.
+[**Rob J Hyndman**](https://robjhyndman.com) is Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University.
 From 2005 to 2018 he was Editor-in-Chief of the International Journal of Forecasting and a Director of the International Institute of Forecasters.
 Rob is the author of over 200 research papers and 5 books in statistical science.
 He is an elected Fellow of both the Australian Academy of Science and the Academy of Social Sciences in Australia.
