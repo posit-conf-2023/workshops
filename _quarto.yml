@@ -13,6 +13,7 @@ website:
   open-graph: true
 
   navbar:
+    background: "#447099"
     left:
       - text: Workshops
         href: index.qmd
@@ -23,5 +24,7 @@ format:
     published-title: "Starts on"
     author-title: "Instructor"
     description-title: "Length"
+    theme: style.scss
+    linkcolor: "#447099"
 
 editor: visual
