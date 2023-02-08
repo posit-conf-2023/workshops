@@ -30,8 +30,7 @@ Intermediate or expert familiarity with modeling or machine learning is not requ
 
 # Instructor
 
-**Hannah Frick** is a software engineer and statistician on the tidymodels team at RStudio.
-The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
+**Hannah Frick** is a software engineer and statistician on the tidymodels team at Posit.
 She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.
 
 **Simon Couch** works on software for statistical modeling on the tidymodels team at Posit.
