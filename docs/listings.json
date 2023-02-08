@@ -7,6 +7,7 @@
       "/workshops/intro-ds-r/index.html",
       "/workshops/forecasting/index.html",
       "/workshops/tidymodels-advanced-1/index.html",
+      "/workshops/arrow/index.html",
       "/workshops/dataviz-storytelling/index.html",
       "/workshops/shiny-python/index.html",
       "/workshops/shiny-r/index.html",
@@ -17,12 +18,10 @@
       "/workshops/manage-os/index.html",
       "/workshops/pkgdev-masterclass-1/index.html",
       "/workshops/posit-team-r/index.html",
-      "/workshops/programming-art/index.html",
       "/workshops/shiny-ui/index.html",
       "/workshops/wtf/index.html",
       "/workshops/quarto-r-projects/index.html",
       "/workshops/tidymodels-advanced-2/index.html",
-      "/workshops/arrow/index.html",
       "/workshops/modeling-deploy/index.html",
       "/workshops/dataviz-ggplot2/index.html",
       "/workshops/quarto-python/index.html",
@@ -33,6 +32,7 @@
       "/workshops/posit-team-python/index.html",
       "/workshops/shiny-dashboard/index.html",
       "/workshops/shiny-production/index.html",
+      "/workshops/programming-art/index.html",
       "/workshops/teach-ds/index.html"
     ]
   }
