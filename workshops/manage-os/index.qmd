@@ -1,0 +1,32 @@
+---
+title: "Managing an Open Source Project"
+author: "Tracy Teal"
+date: "2023-09-17"
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - " "
+tags:
+  - open source
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+This workshop is for you if you:
+
+-   ...
+-   ...
+-   ...
+
+# Bio
+
+**Tracy Teal** is ...

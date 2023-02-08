@@ -2,10 +2,14 @@
 title: "Deploy and maintain models with vetiver"
 author: "Julia Silge"
 date: "2023-09-18"
-description: " "
-subtitle: "x"
-categories:
-  - modeling
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+  - Python
+tags:
+  - modelling
   - deployment
 ---
 

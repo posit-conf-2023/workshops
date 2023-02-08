@@ -2,9 +2,14 @@
 title: "Package Development Masterclass"
 author: "Hadley Wickham"
 date: "2023-09-18"
-description: " "
-subtitle: "x"
-categories: [package development]
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
+  - packages
+  - programming
 ---
 
 # Abstract

@@ -1,0 +1,29 @@
+---
+title: "Introduction to data science with Python"
+author: "Posit Academy Team"
+date: "2023-09-17"
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - Python
+tags:
+  - data science
+  - pandas
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+...
+
+# Bio
+
+...

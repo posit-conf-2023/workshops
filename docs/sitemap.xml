@@ -2,78 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/programming-art/index.html</loc>
-    <lastmod>2023-02-06T21:00:49.857Z</lastmod>
+    <lastmod>2023-02-08T03:43:07.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/pkgdev-2/index.html</loc>
+    <lastmod>2023-02-08T03:43:07.818Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/dataviz-storytelling/index.html</loc>
-    <lastmod>2023-02-06T21:00:50.371Z</lastmod>
+    <lastmod>2023-02-08T03:43:08.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/intro-ds-r/index.html</loc>
+    <lastmod>2023-02-08T03:43:08.765Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/modeling-deploy/index.html</loc>
-    <lastmod>2023-02-06T21:00:50.824Z</lastmod>
+    <lastmod>2023-02-08T03:43:09.215Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/teach-ds/index.html</loc>
-    <lastmod>2023-02-06T21:00:51.258Z</lastmod>
+    <lastmod>2023-02-08T03:43:09.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/arrow/index.html</loc>
+    <lastmod>2023-02-08T03:43:10.087Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/modeling-advanced-2/index.html</loc>
-    <lastmod>2023-02-06T21:00:51.707Z</lastmod>
+    <lastmod>2023-02-08T03:43:10.547Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/shiny-r/index.html</loc>
-    <lastmod>2023-02-06T21:00:52.139Z</lastmod>
+    <lastmod>2023-02-08T03:43:11.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/intermediate-r/index.html</loc>
+    <lastmod>2023-02-08T03:43:11.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/manage-os/index.html</loc>
+    <lastmod>2023-02-08T03:43:11.990Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/shiny-dashboard/index.html</loc>
-    <lastmod>2023-02-06T21:00:52.584Z</lastmod>
+    <lastmod>2023-02-08T03:43:12.462Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/shiny-python/index.html</loc>
-    <lastmod>2023-02-06T21:00:53.037Z</lastmod>
+    <lastmod>2023-02-08T03:43:12.928Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/pkgdev-masterclass-2/index.html</loc>
-    <lastmod>2023-02-06T21:00:53.496Z</lastmod>
+    <lastmod>2023-02-08T03:43:13.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/quarto-r-projects/index.html</loc>
+    <lastmod>2023-02-08T03:43:13.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/quarto-python/index.html</loc>
+    <lastmod>2023-02-08T03:43:14.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/pkgdev-1/index.html</loc>
+    <lastmod>2023-02-08T03:43:14.703Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/shiny-ui/index.html</loc>
-    <lastmod>2023-02-06T21:00:53.925Z</lastmod>
+    <lastmod>2023-02-08T03:43:15.162Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/modeling-advanced-1/index.html</loc>
-    <lastmod>2023-02-06T21:00:54.337Z</lastmod>
+    <lastmod>2023-02-08T03:43:15.605Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/modeling-intro/index.html</loc>
-    <lastmod>2023-02-06T21:00:54.795Z</lastmod>
+    <lastmod>2023-02-08T03:43:16.068Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/dataviz-ggplot2/index.html</loc>
-    <lastmod>2023-02-06T21:00:55.224Z</lastmod>
+    <lastmod>2023-02-08T03:43:16.886Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/posit-admin/index.html</loc>
-    <lastmod>2023-02-06T21:00:55.667Z</lastmod>
+    <lastmod>2023-02-08T03:43:17.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/intro-ds-python/index.html</loc>
+    <lastmod>2023-02-08T03:43:17.758Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/posit-team-python/index.html</loc>
+    <lastmod>2023-02-08T03:43:18.161Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/posit-team-r/index.html</loc>
+    <lastmod>2023-02-08T03:43:18.616Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/forecasting/index.html</loc>
-    <lastmod>2023-02-06T21:00:56.088Z</lastmod>
+    <lastmod>2023-02-08T03:43:19.068Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/pkgdev-masterclass-1/index.html</loc>
-    <lastmod>2023-02-06T21:00:56.521Z</lastmod>
+    <lastmod>2023-02-08T03:43:19.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/quarto-r-docs/index.html</loc>
+    <lastmod>2023-02-08T03:43:19.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/wtf/index.html</loc>
+    <lastmod>2023-02-08T03:43:20.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://posit-conf-2023.github.io/website/workshops/causal-inference/index.html</loc>
+    <lastmod>2023-02-08T03:43:20.881Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/workshops/shiny-production/index.html</loc>
-    <lastmod>2023-02-06T21:00:57.023Z</lastmod>
+    <lastmod>2023-02-08T03:43:21.321Z</lastmod>
   </url>
   <url>
     <loc>https://posit-conf-2023.github.io/website/index.html</loc>
-    <lastmod>2023-02-06T21:00:57.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://posit-conf-2023.github.io/website/notes/simon-intro-tidymodels.html</loc>
-    <lastmod>2023-02-06T21:00:58.065Z</lastmod>
+    <lastmod>2023-02-08T03:43:22.219Z</lastmod>
   </url>
 </urlset>

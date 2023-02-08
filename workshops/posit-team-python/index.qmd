@@ -1,0 +1,35 @@
+---
+title: "Posit Team with Python"
+author: "Gagan Singh"
+date: "2023-09-18"
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - Python
+tags:
+  - data science
+  - pro products
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+This course is for you if you:
+
+-   ...
+
+-   ...
+
+-   ...
+
+# Bio
+
+**Gagan Singh** is ...

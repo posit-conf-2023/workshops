@@ -1,12 +1,15 @@
 ---
 title: "Web Design for Shiny Developers"
-author: "David Granjon and Maya Gans"
+author: "David Granjon + Maya Gans"
 date: "2023-09-17"
-description: "x"
-subtitle: " "
-categories:
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - R
+tags:
   - shiny
-  - design
+  - user interface
 ---
 
 # Abstract

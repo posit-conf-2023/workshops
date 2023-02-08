@@ -1,0 +1,34 @@
+---
+title: "Big Data with Arrow"
+author: "TBD"
+date: "2023-09-18"
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
+  - big data
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+This course is for you if you:
+
+-   ...
+
+-   ...
+
+-   ...
+
+# Bio
+
+**Stephanie Hazlitt** is ...

@@ -1,10 +1,14 @@
 ---
-title: "Introduction to Shiny with R"
+title: "Getting Started with Shiny for R"
 author: "Colin Rundel"
 date: "2023-09-17"
-description: "x"
-subtitle: " "
-categories: [shiny]
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - R
+tags:
+  - shiny
 ---
 
 # Abstract

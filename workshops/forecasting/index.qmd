@@ -2,9 +2,15 @@
 title: "Tidy time series and forecasting in R"
 author: "Rob Hyndman"
 date: "2023-09-17"
-description: "x"
-subtitle: "x"
-categories: [forecasting]
+length: "A-2-day"
+day-one: "X"
+day-two: "X"
+languages:
+  - R
+tags:
+  - time series
+  - forecasting
+  - modelling
 ---
 
 # Abstract
@@ -25,15 +31,15 @@ Finally, we will look at forecast reconciliation, allowing millions of time seri
 
 # Target audience
 
-This course is for you if:
+This course is for you if you:
 
--   you already use the tidyverse packages in R such as dplyr, tidyr, tibble and ggplot2
--   you need to analyse large collections of related time series
--   you would like to learn how to use some tidy tools for time series analysis including visualization, decomposition and forecasting
+-   already use the tidyverse packages in R such as dplyr, tidyr, tibble and ggplot2,
+-   need to analyze large collections of related time series, and
+-   would like to learn how to use some tidy tools for time series analysis including visualization, decomposition and forecasting.
 
 # Bio
 
-Rob J Hyndman is Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University.
+**Rob J Hyndman** is Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University.
 From 2005 to 2018 he was Editor-in-Chief of the International Journal of Forecasting and a Director of the International Institute of Forecasters.
 Rob is the author of over 200 research papers and 5 books in statistical science.
 He is an elected Fellow of both the Australian Academy of Science and the Academy of Social Sciences in Australia.
@@ -41,4 +47,3 @@ In 2007, he received the Moran medal from the Australian Academy of Science for 
 In 2021, he received the Pitman medal from the Statistical Society of Australia.
 For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world.
 He has won awards for his research, teaching, consulting and graduate supervision.
-

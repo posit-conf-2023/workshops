@@ -2,9 +2,13 @@
 title: "Administering the Posit Professional Products"
 author: "Shannon Haggerty"
 date: "2023-09-17"
-description: "x"
-subtitle: "x"
-categories: [admin]
+length: "A-2-day"
+day-one: "X"
+day-two: "X"
+languages:
+  - R
+tags:
+  - admin
 ---
 
 # Abstract

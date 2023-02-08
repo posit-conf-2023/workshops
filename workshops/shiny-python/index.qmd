@@ -1,16 +1,20 @@
 ---
-title: "Shiny for Python: Building a Financial Stock Analysis Application from Scratch"
+title: "Getting Started with Shiny for Python"
 author: "Matt Dancho"
 date: "2023-09-17"
-description: "x"
-subtitle: " "
-categories: [shiny]
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - Python
+tags:
+  - shiny
 ---
 
 # Abstract
 
 Shiny for Python is a new technology for automating business analysis and data science for organizations that use Python and want to get applications into production in days (not months or years).
-In this one-day workshop, students learn how to progressively build a Shiny for Python application using a "4-Step Shiny for Python Build Framework" on a real business case study that benefits both organizations and individuals.
+In this one-day workshop, you will learn how to progressively build a Shiny for Python application using a "4-Step Shiny for Python Build Framework" on a real business case study that benefits both organizations and individuals.
 Students first discover how to integrate a financial API using yfinance, a popular python library for retrieving company financial data, into a Shiny for Python web application.
 Students then learn how to apply the "4-Step Shiny for Python Build Framework" to automate the complete financial analysis for any of the 507 stocks listed on the S&P 500 index.
 Students leave with the code, knowledge, and a complete framework for building Shiny applications in Python.

@@ -1,0 +1,29 @@
+---
+title: "Introduction to data science with R"
+author: "Posit Academy Team"
+date: "2023-09-17"
+length: "A-2-day"
+day-one: "X"
+day-two: "X"
+languages:
+  - R
+tags:
+  - data science
+  - tidyverse
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+...
+
+# Bio
+
+...

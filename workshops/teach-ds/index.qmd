@@ -2,25 +2,32 @@
 title: "Teaching Data Science"
 author: "Mine Çetinkaya-Rundel"
 date: "2023-09-18"
-description: " "
-subtitle: "x"
-categories:
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
   - teaching
 ---
 
+::: callout-note
+Need course info
+:::
+
 # Abstract
 
-To be added...
+...
 
 # Target audience
 
-This course is for you if:
+This course is for you if you:
 
--   you ...
+-   ...
 
--   you ...
+-   ...
 
--   you ...
+-   ...
 
 # Bio
 

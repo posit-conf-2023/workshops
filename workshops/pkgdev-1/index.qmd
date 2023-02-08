@@ -1,0 +1,29 @@
+---
+title: "Introduction to Package Development"
+author: "Andy Teucher"
+date: "2023-09-17"
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - R
+tags:
+  - packages
+  - programming
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+...
+
+# Bio
+
+**Andy Teucher** is ...

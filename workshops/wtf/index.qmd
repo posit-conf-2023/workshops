@@ -1,0 +1,44 @@
+---
+title: "What They Forgot to Teach You About R"
+author: "Shannon Pileggi + David Aja"
+date: "2023-09-17"
+length: "B-1-day"
+day-one: "X"
+day-two: " "
+languages:
+  - R
+tags:
+  - version control
+---
+
+# Abstract
+
+::: callout-warning
+Needs updating from last year.
+:::
+
+This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle.
+You'll learn holistic workflows that address the most common sources of friction in data analysis.
+We'll work on project-oriented workflows, version control for data science (Git/GitHub!), and how to plan for collaboration, communication, and iteration (incl. R Markdown).\
+
+\
+At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
+
+# Target audience
+
+This course is for you if you:
+
+-   have been using R for a while and feel there might be better ways to organize your R life, but don't know what they are,
+-   want to streamline your workflow for doing analysis and automating repetitive tasks in R, or
+-   are willing to get into the weeds of your R installation, project organization, error messages, and source code.
+
+# Bio
+
+**Shannon Pileggi** PhD is a Data Scientist with more than ten years of experience partnering on data analysis with diverse stakeholders in academic, corporate, tech, public health, and clinical research settings.
+An enthusiastic educator and statistical collaborator, Shannon started her career in academia as a Lecturer with the Institute for Quantitative Theory and Methods at Emory University, and later as an Assistant Professor at California Polytechnic State University, San Luis Obispo.
+When she transitioned to industry in 2019, Shannon leveraged open source and community resources to adopt modern programming practices and workflows in R.
+In 2020, Shannon began to give back to the R community through blogging and developing R-Ladies workshops; she currently serves as a member of the R-Ladies Global Team.
+Shannon spends her days wrangling data, creating reproducible reports, building shiny apps, developing R packages, and mentoring junior Data Scientists at The Prostate Cancer Clinical Trials Consortium, housed under Memorial Sloan Kettering Cancer Center.\
+
+\
+**David Aja** is ...

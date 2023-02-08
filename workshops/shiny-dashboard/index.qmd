@@ -2,9 +2,15 @@
 title: "Shiny Dashboards"
 author: "Colin Rundel"
 date: "2023-09-18"
-description: " "
-subtitle: "x"
-categories: [shiny]
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
+  - dashboards
+  - shiny
+  - user interface
 ---
 
 # Abstract

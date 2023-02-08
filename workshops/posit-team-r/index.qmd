@@ -1,0 +1,37 @@
+---
+title: "Posit Team with R"
+author: "Ryan Johnson + Katie Masiello"
+date: "2023-09-17"
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
+  - data science
+  - pro products
+---
+
+::: callout-note
+Need course info
+:::
+
+# Abstract
+
+...
+
+# Target audience
+
+This course is for you if you:
+
+-   ...
+
+-   ...
+
+-   ...
+
+# Bio
+
+**Ryan Johnson** is ...
+
+**Katie Masiello** is ...\

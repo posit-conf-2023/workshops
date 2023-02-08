@@ -1,0 +1,53 @@
+---
+title: "Intermediate R programming"
+author: "Emma Rand + Ian Lyttle"
+date: "2023-09-18"
+length: "B-1-day"
+day-one: " "
+day-two: "X"
+languages:
+  - R
+tags:
+  - tidyverse
+  - programming
+---
+
+# Abstract
+
+This is a two-day, hands-on workshop for those who have embraced the tidyverse and want to build their own packages.
+
+This is a two-day, hands-on workshop for those who have embraced the tidyverse and want to improve their R programming skills.
+We'll discuss how functions present to the user, functional programming tools, and Object-oriented programming with S3 (R's simplest system of OOP).
+We will also cover the tidy eval system which allows you to use tidyverse grammar in your functions.\
+
+\
+- Learn efficient workflows for developing high-quality R functions, using the set of conventions codified by a package.
+You'll also learn workflows for unit testing, which helps ensure that your functions do exactly what you think they do.\
+
+-   Master the art of writing functions that do one thing well and can be fluently combined together to solve more complex problems.
+    We'll cover common function writing pitfalls and how to avoid them.\
+
+-   Learn how to write collections of functions that work well together, and adhere to existing conventions so they're easy to pick up for newcomers.
+
+# Target audience
+
+This course is for you if you:
+
+-   have experience programming in R and want to learn how to tackle larger scale problems and
+
+-   are already familiar with functions and are comfortable with R's basic data structures (vectors, matrices, arrays, lists, and data frames).
+
+# Bio
+
+**Emma Rand** is a Senior Lecturer in the Department of Biology at the University of York where she specialises in teaching data science and reproducibility, particularly to those who do not see themselves as programmers.
+She leads a UKRI funded project called Cloud-SPAN which trains researchers in cloud-based high performance computing for 'omics.
+She is a Software Sustainability Institute Fellow, a Teaching team lead for R Forwards and delivers data science training for the Royal Society of Biology and the Biochemical Society.\
+
+\
+**Ian Lyttle** is a Data Scientist at Schneider Electric.
+His technical interests include visualization, interactivity, and functional programming.
+He is a community contributor to tidyverse and r-lib, and maintains CRAN packages including vegawidget and boxr.
+He has delivered tutorials on a variety of R topics at UseR!,
+Uncoast Unconf, and the Iowa State University Graphics Group.
+
+\
