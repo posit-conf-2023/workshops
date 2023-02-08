@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-day-one','listing-day-two','listing-languages','listing-tags',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-day-one','listing-day-two','listing-languages','listing-tags',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       page: 30,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
@@ -150,6 +150,18 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-author" data-direction="asc">
           Instructor
         </option>
+         <option value="listing-day-one" data-direction="asc">
+          Day 1
+        </option>
+         <option value="listing-day-two" data-direction="asc">
+          Day 2
+        </option>
+         <option value="listing-languages" data-direction="asc">
+          Languages
+        </option>
+         <option value="listing-tags" data-direction="asc">
+          Tags
+        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -158,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 
-<table class="quarto-listing-table table">
+<table class="quarto-listing-table table table-striped table-hover">
 <thead>
 <tr>
 <th>
@@ -168,21 +180,22 @@ ul.task-list li input[type="checkbox"] {
 <a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Instructor</a>
 </th>
 <th>
-Day 1
+<a class="sort" data-sort="listing-day-one" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Day 1</a>
 </th>
 <th>
-Day 2
+<a class="sort" data-sort="listing-day-two" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Day 2</a>
 </th>
 <th>
-Languages
+<a class="sort" data-sort="listing-languages" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Languages</a>
 </th>
 <th>
-Tags
+<a class="sort" data-sort="listing-tags" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Tags</a>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827339994" data-listing-reading-time-sort="1.065" data-listing-title-sort="Administering the Posit Professional Products" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831406126" data-listing-reading-time-sort="1.065" data-listing-title-sort="Administering the Posit Professional Products" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/posit-admin/index.html" class="title">Administering the Posit Professional Products</a>
 </td>
@@ -202,7 +215,8 @@ R
 admin
 </td>
 </tr>
-<tr data-index="1" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827693157" data-listing-reading-time-sort="1.185" data-listing-title-sort="Causal Inference with R" data-listing-filename-sort="index.qmd">
+<tr data-index="1" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675832152923" data-listing-reading-time-sort="1.2" data-listing-title-sort="Causal Inference with R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/causal-inference/index.html" class="title">Causal Inference with R</a>
 </td>
@@ -222,7 +236,8 @@ R
 statistics,modelling,inference
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827783853" data-listing-reading-time-sort="0.035" data-listing-title-sort="Introduction to data science with R" data-listing-filename-sort="index.qmd">
+<tr data-index="2" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830465562" data-listing-reading-time-sort="0.03" data-listing-title-sort="Introduction to data science with R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/intro-ds-r/index.html" class="title">Introduction to data science with R</a>
 </td>
@@ -242,7 +257,8 @@ R
 data science,tidyverse
 </td>
 </tr>
-<tr data-index="3" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827378090" data-listing-reading-time-sort="2.05" data-listing-title-sort="Tidy time series and forecasting in R" data-listing-filename-sort="index.qmd">
+<tr data-index="3" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830465553" data-listing-reading-time-sort="2.045" data-listing-title-sort="Tidy time series and forecasting in R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/forecasting/index.html" class="title">Tidy time series and forecasting in R</a>
 </td>
@@ -262,9 +278,10 @@ R
 time series,forecasting,modelling
 </td>
 </tr>
-<tr data-index="4" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827362669" data-listing-reading-time-sort="1.08" data-listing-title-sort="Advanced tidymodels" data-listing-filename-sort="index.qmd">
+<tr data-index="4" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675832040755" data-listing-reading-time-sort="1.13" data-listing-title-sort="Advanced tidymodels" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
-<a href="./workshops/modeling-advanced-1/index.html" class="title">Advanced tidymodels</a>
+<a href="./workshops/tidymodels-advanced-1/index.html" class="title">Advanced tidymodels</a>
 </td>
 <td class="listing-author">
 Max Kuhn
@@ -281,7 +298,8 @@ R
 tidymodels,modelling
 </td>
 </tr>
-<tr data-index="5" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827386441" data-listing-reading-time-sort="1.795" data-listing-title-sort="Designing Data Visualizations for Successfully Telling a Story" data-listing-filename-sort="index.qmd">
+<tr data-index="5" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830465548" data-listing-reading-time-sort="1.79" data-listing-title-sort="Designing Data Visualizations for Successfully Telling a Story" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/dataviz-storytelling/index.html" class="title">Designing Data Visualizations for Successfully Telling a Story</a>
 </td>
@@ -299,7 +317,8 @@ X
 visualization
 </td>
 </tr>
-<tr data-index="6" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462618" data-listing-reading-time-sort="1.57" data-listing-title-sort="Getting Started with Shiny for Python" data-listing-filename-sort="index.qmd">
+<tr data-index="6" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830905062" data-listing-reading-time-sort="1.56" data-listing-title-sort="Getting Started with Shiny for Python" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/shiny-python/index.html" class="title">Getting Started with Shiny for Python</a>
 </td>
@@ -318,7 +337,8 @@ Python
 shiny
 </td>
 </tr>
-<tr data-index="7" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462620" data-listing-reading-time-sort="1.025" data-listing-title-sort="Getting Started with Shiny for R" data-listing-filename-sort="index.qmd">
+<tr data-index="7" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830867887" data-listing-reading-time-sort="1.055" data-listing-title-sort="Getting Started with Shiny for R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/shiny-r/index.html" class="title">Getting Started with Shiny for R</a>
 </td>
@@ -337,7 +357,8 @@ R
 shiny
 </td>
 </tr>
-<tr data-index="8" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827352092" data-listing-reading-time-sort="0.05" data-listing-title-sort="Introduction to Package Development" data-listing-filename-sort="index.qmd">
+<tr data-index="8" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831500738" data-listing-reading-time-sort="0.045" data-listing-title-sort="Introduction to Package Development" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/pkgdev-1/index.html" class="title">Introduction to Package Development</a>
 </td>
@@ -356,7 +377,8 @@ R
 packages,programming
 </td>
 </tr>
-<tr data-index="9" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462612" data-listing-reading-time-sort="1.25" data-listing-title-sort="Introduction to Quarto with R and RStudio: Documents and Presentations" data-listing-filename-sort="index.qmd">
+<tr data-index="9" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831142534" data-listing-reading-time-sort="1.285" data-listing-title-sort="Introduction to Quarto with R and RStudio: Documents and Presentations" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/quarto-r-docs/index.html" class="title">Introduction to Quarto with R and RStudio: Documents and Presentations</a>
 </td>
@@ -375,7 +397,8 @@ R
 quarto
 </td>
 </tr>
-<tr data-index="10" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827778587" data-listing-reading-time-sort="0.035" data-listing-title-sort="Introduction to data science with Python" data-listing-filename-sort="index.qmd">
+<tr data-index="10" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830465559" data-listing-reading-time-sort="0.03" data-listing-title-sort="Introduction to data science with Python" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/intro-ds-python/index.html" class="title">Introduction to data science with Python</a>
 </td>
@@ -394,9 +417,10 @@ Python
 data science,pandas
 </td>
 </tr>
-<tr data-index="11" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827355039" data-listing-reading-time-sort="1.4" data-listing-title-sort="Introduction to tidymodels" data-listing-filename-sort="index.qmd">
+<tr data-index="11" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831528535" data-listing-reading-time-sort="1.395" data-listing-title-sort="Introduction to tidymodels" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
-<a href="./workshops/modeling-intro/index.html" class="title">Introduction to tidymodels</a>
+<a href="./workshops/tidymodels-intro/index.html" class="title">Introduction to tidymodels</a>
 </td>
 <td class="listing-author">
 Hannah Frick + Simon Couch + Emil Hvidfeldt
@@ -413,7 +437,8 @@ R
 modelling
 </td>
 </tr>
-<tr data-index="12" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827366386" data-listing-reading-time-sort="0.125" data-listing-title-sort="Managing an Open Source Project" data-listing-filename-sort="index.qmd">
+<tr data-index="12" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830465564" data-listing-reading-time-sort="0.12" data-listing-title-sort="Managing an Open Source Project" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/manage-os/index.html" class="title">Managing an Open Source Project</a>
 </td>
@@ -431,7 +456,8 @@ X
 open source
 </td>
 </tr>
-<tr data-index="13" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827346564" data-listing-reading-time-sort="1.005" data-listing-title-sort="Package Development Masterclass" data-listing-filename-sort="index.qmd">
+<tr data-index="13" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831491444" data-listing-reading-time-sort="0.995" data-listing-title-sort="Package Development Masterclass" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/pkgdev-masterclass-1/index.html" class="title">Package Development Masterclass</a>
 </td>
@@ -450,7 +476,8 @@ R
 packages,programming
 </td>
 </tr>
-<tr data-index="14" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462609" data-listing-reading-time-sort="0.14" data-listing-title-sort="Posit Team with R" data-listing-filename-sort="index.qmd">
+<tr data-index="14" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831385162" data-listing-reading-time-sort="0.135" data-listing-title-sort="Posit Team with R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/posit-team-r/index.html" class="title">Posit Team with R</a>
 </td>
@@ -469,7 +496,8 @@ R
 data science,pro products
 </td>
 </tr>
-<tr data-index="15" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462610" data-listing-reading-time-sort="1.98" data-listing-title-sort="Steal like an Rtist: Creative Coding in R" data-listing-filename-sort="index.qmd">
+<tr data-index="15" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675831377495" data-listing-reading-time-sort="1.97" data-listing-title-sort="Steal like an Rtist: Creative Coding in R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/programming-art/index.html" class="title">Steal like an Rtist: Creative Coding in R</a>
 </td>
@@ -488,7 +516,8 @@ R
 visualization,programming,art
 </td>
 </tr>
-<tr data-index="16" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462622" data-listing-reading-time-sort="1.3" data-listing-title-sort="Web Design for Shiny Developers" data-listing-filename-sort="index.qmd">
+<tr data-index="16" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830734817" data-listing-reading-time-sort="1.295" data-listing-title-sort="Web Design for Shiny Developers" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/shiny-ui/index.html" class="title">Web Design for Shiny Developers</a>
 </td>
@@ -507,7 +536,8 @@ R
 shiny,user interface
 </td>
 </tr>
-<tr data-index="17" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675827462626" data-listing-reading-time-sort="1.7" data-listing-title-sort="What They Forgot to Teach You About R" data-listing-filename-sort="index.qmd">
+<tr data-index="17" data-listing-date-sort="1694923200000" data-listing-file-modified-sort="1675830707960" data-listing-reading-time-sort="1.705" data-listing-title-sort="What They Forgot to Teach You About R" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/wtf/index.html" class="title">What They Forgot to Teach You About R</a>
 </td>
@@ -526,7 +556,8 @@ R
 version control
 </td>
 </tr>
-<tr data-index="18" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462614" data-listing-reading-time-sort="1.085" data-listing-title-sort="Advanced Quarto with R and RStudio: Projects, Websites, Books, and More" data-listing-filename-sort="index.qmd">
+<tr data-index="18" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831845468" data-listing-reading-time-sort="1.08" data-listing-title-sort="Advanced Quarto with R and RStudio: Projects, Websites, Books, and More" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/quarto-r-projects/index.html" class="title">Advanced Quarto with R and RStudio: Projects, Websites, Books, and More</a>
 </td>
@@ -545,9 +576,10 @@ R
 quarto
 </td>
 </tr>
-<tr data-index="19" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827360389" data-listing-reading-time-sort="1.08" data-listing-title-sort="Advanced tidymodels" data-listing-filename-sort="index.qmd">
+<tr data-index="19" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675832008162" data-listing-reading-time-sort="1.105" data-listing-title-sort="Advanced tidymodels" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
-<a href="./workshops/modeling-advanced-2/index.html" class="title">Advanced tidymodels</a>
+<a href="./workshops/tidymodels-advanced-2/index.html" class="title">Advanced tidymodels</a>
 </td>
 <td class="listing-author">
 Max Kuhn
@@ -564,7 +596,8 @@ R
 tidymodels,modelling
 </td>
 </tr>
-<tr data-index="20" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827413569" data-listing-reading-time-sort="0.125" data-listing-title-sort="Big Data with Arrow" data-listing-filename-sort="index.qmd">
+<tr data-index="20" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675832160730" data-listing-reading-time-sort="0.105" data-listing-title-sort="Big Data with Arrow" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/arrow/index.html" class="title">Big Data with Arrow</a>
 </td>
@@ -583,7 +616,8 @@ R
 big data
 </td>
 </tr>
-<tr data-index="21" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827358019" data-listing-reading-time-sort="1.195" data-listing-title-sort="Deploy and maintain models with vetiver" data-listing-filename-sort="index.qmd">
+<tr data-index="21" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831549182" data-listing-reading-time-sort="1.195" data-listing-title-sort="Deploy and maintain models with vetiver" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/modeling-deploy/index.html" class="title">Deploy and maintain models with vetiver</a>
 </td>
@@ -602,7 +636,8 @@ R,Python
 modelling,deployment
 </td>
 </tr>
-<tr data-index="22" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827390853" data-listing-reading-time-sort="1.715" data-listing-title-sort="Engaging and Beautiful Data Visualizations with ggplot2" data-listing-filename-sort="index.qmd">
+<tr data-index="22" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675832130234" data-listing-reading-time-sort="1.66" data-listing-title-sort="Engaging and Beautiful Data Visualizations with ggplot2" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/dataviz-ggplot2/index.html" class="title">Engaging and Beautiful Data Visualizations with ggplot2</a>
 </td>
@@ -621,7 +656,8 @@ R
 visualization
 </td>
 </tr>
-<tr data-index="23" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462611" data-listing-reading-time-sort="1.295" data-listing-title-sort="From Jupyter Notebooks to reproducible publications with Quarto" data-listing-filename-sort="index.qmd">
+<tr data-index="23" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831348492" data-listing-reading-time-sort="1.51" data-listing-title-sort="From Jupyter Notebooks to reproducible publications with Quarto" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/quarto-python/index.html" class="title">From Jupyter Notebooks to reproducible publications with Quarto</a>
 </td>
@@ -640,7 +676,8 @@ Python
 quarto,notebooks
 </td>
 </tr>
-<tr data-index="24" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827375773" data-listing-reading-time-sort="1.78" data-listing-title-sort="Intermediate R programming" data-listing-filename-sort="index.qmd">
+<tr data-index="24" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675832110775" data-listing-reading-time-sort="1.815" data-listing-title-sort="Intermediate R programming" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/intermediate-r/index.html" class="title">Intermediate R programming</a>
 </td>
@@ -659,7 +696,8 @@ R
 tidyverse,programming
 </td>
 </tr>
-<tr data-index="25" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827348711" data-listing-reading-time-sort="0.05" data-listing-title-sort="Introduction to Package Development" data-listing-filename-sort="index.qmd">
+<tr data-index="25" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831495162" data-listing-reading-time-sort="0.045" data-listing-title-sort="Introduction to Package Development" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/pkgdev-2/index.html" class="title">Introduction to Package Development</a>
 </td>
@@ -678,7 +716,28 @@ R
 packages,programming
 </td>
 </tr>
-<tr data-index="26" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827343966" data-listing-reading-time-sort="1.005" data-listing-title-sort="Package Development Masterclass" data-listing-filename-sort="index.qmd">
+<tr data-index="26" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675832217201" data-listing-reading-time-sort="0.105" data-listing-title-sort="Machine Learning with Python and Scikit-Learn" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td class="listing-title">
+<a href="./workshops/modeling-python/index.html" class="title">Machine Learning with Python and Scikit-Learn</a>
+</td>
+<td class="listing-author">
+TBD
+</td>
+<td class="listing-day-one">
+</td>
+<td class="listing-day-two">
+X
+</td>
+<td class="listing-languages">
+Python
+</td>
+<td class="listing-tags">
+scikit-learn
+</td>
+</tr>
+<tr data-index="27" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831486303" data-listing-reading-time-sort="0.995" data-listing-title-sort="Package Development Masterclass" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/pkgdev-masterclass-2/index.html" class="title">Package Development Masterclass</a>
 </td>
@@ -697,12 +756,13 @@ R
 packages,programming
 </td>
 </tr>
-<tr data-index="27" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462607" data-listing-reading-time-sort="0.125" data-listing-title-sort="Posit Team with Python" data-listing-filename-sort="index.qmd">
+<tr data-index="28" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831394102" data-listing-reading-time-sort="0.12" data-listing-title-sort="Posit Team with Python" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/posit-team-python/index.html" class="title">Posit Team with Python</a>
 </td>
 <td class="listing-author">
-Gagan Singh
+Gagan Singh + TBD
 </td>
 <td class="listing-day-one">
 </td>
@@ -716,7 +776,8 @@ Python
 data science,pro products
 </td>
 </tr>
-<tr data-index="28" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462615" data-listing-reading-time-sort="0.665" data-listing-title-sort="Shiny Dashboards" data-listing-filename-sort="index.qmd">
+<tr data-index="29" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675831114277" data-listing-reading-time-sort="0.875" data-listing-title-sort="Shiny Dashboards" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/shiny-dashboard/index.html" class="title">Shiny Dashboards</a>
 </td>
@@ -735,7 +796,8 @@ R
 dashboards,shiny,user interface
 </td>
 </tr>
-<tr data-index="29" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462617" data-listing-reading-time-sort="1.57" data-listing-title-sort="Shiny in production: Tools and Techniques" data-listing-filename-sort="index.qmd">
+<tr data-index="30" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675830933951" data-listing-reading-time-sort="1.56" data-listing-title-sort="Shiny in production: Tools and Techniques" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/shiny-production/index.html" class="title">Shiny in production: Tools and Techniques</a>
 </td>
@@ -754,7 +816,8 @@ R
 shiny,deployment
 </td>
 </tr>
-<tr data-index="30" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675827462624" data-listing-reading-time-sort="0.125" data-listing-title-sort="Teaching Data Science" data-listing-filename-sort="index.qmd">
+<tr data-index="31" data-listing-date-sort="1695009600000" data-listing-file-modified-sort="1675830721423" data-listing-reading-time-sort="0.12" data-listing-title-sort="Teaching Data Science" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
 <td class="listing-title">
 <a href="./workshops/teach-ds/index.html" class="title">Teaching Data Science</a>
 </td>

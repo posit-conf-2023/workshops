@@ -3,6 +3,7 @@ title: "Package Development Masterclass"
 author: "Hadley Wickham"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -12,23 +13,23 @@ tags:
   - programming
 ---
 
-# Abstract
+# Description
 
 In this one-day masterclass, you'll have the opportunity to dig deep into package development.
 We'll cover a selection of cutting-edge topics (e.g. advanced testing tools, writing actionable error messages) that have significantly impacted the way we develop packages in the last couple of years.
 There will be plenty of time to apply what you learn to your own package, in an environment where you can get help and talk things through with the tidyverse team.
 
-# Target audience
+# Audience
 
-This course is for you if:
+This workshop is for you if you:
 
--   you have already developed one or more packages, and are preared to work on them during with workshop.
--   you are familiar with the basic devtools/RStudio workflow (e.g. `load_all()`, roxygen2, testthat, and usethis)
--   you are familiar with Git
+-   have already developed one or more packages, and are prepared to work on them during with workshop,
+-   are familiar with the basic devtools/RStudio workflow (e.g. `load_all()`, roxygen2, testthat, and usethis), and
+-   are familiar with Git.
 
-# Bio
+# Instructor
 
-[Hadley Wickham](https://hadley.nz) is Chief Scientist at RStudio, winner of the 2019 COPSS award, and a member of the R Foundation.
+[**Hadley Wickham**](https://hadley.nz) is Chief Scientist at RStudio, winner of the 2019 COPSS award, and a member of the R Foundation.
 He builds tools (both computational and cognitive) to make data science easier, faster, and more fun.
 His work includes packages for data science (like the tidyverse, which includes ggplot2, dplyr, and tidyr)and principled software development (e.g. roxygen2, testthat, and pkgdown).
 He is also a writer, educator, and speaker promoting the use of R for data science.

@@ -3,6 +3,7 @@ title: "Introduction to Package Development"
 author: "Andy Teucher"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -13,17 +14,17 @@ tags:
 ---
 
 ::: callout-note
-Need course info
+Need course info.
 :::
 
-# Abstract
+# Description
 
 ...
 
-# Target audience
+# Audience
 
 ...
 
-# Bio
+# Instructor
 
 **Andy Teucher** is ...

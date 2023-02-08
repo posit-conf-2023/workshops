@@ -3,6 +3,7 @@ title: "Designing Data Visualizations for Successfully Telling a Story"
 author: "Cédric Scherer"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -11,7 +12,7 @@ tags:
   - visualization
 ---
 
-# Abstract
+# Description
 
 Communicating data through meaningful and easily accessible visualization is a critical competence for most data-related roles including data scientists, analysts, scientific researchers, and managers.
 A well-designed graphic is able to inform, spark engagement, explain patterns, and drive decisions and actions.
@@ -22,7 +23,7 @@ Participants will learn helpful tips and tricks to create appealing and informat
 We will cover principles of good data visualization design, explore different options to display data, and discuss ways to guide and engage viewers with the aim to create impactful graphics.
 The course also features sessions on picking suitable yet beautiful colors, what to consider when choosing and pairing typefaces, and the layout of graphics, also in the context of dashboard building.
 
-# Target audience
+# Audience
 
 This course is for you if you:
 
@@ -32,7 +33,7 @@ This course is for you if you:
 
 -   are willing to spend a bit more time to choose the right chart, proper color palettes, and suitable fonts along with additional elements to guide the viewer.
 
-# Bio
+# Instructor
 
 [**Cédric Scherer**](https://cedricscherer.com) is a data visualization designer, consultant, and instructor helping clients and workshop participants to create engaging and effective graphics.
 As a graduated ecologist, he has acquired an extensive hypothesis--driven research experience and problem--solving expertise in data wrangling, statistical analysis, and model development.

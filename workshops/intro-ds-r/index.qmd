@@ -3,6 +3,7 @@ title: "Introduction to data science with R"
 author: "Posit Academy Team"
 date: "2023-09-17"
 length: "A-2-day"
+description: "2-day workshop"
 day-one: "X"
 day-two: "X"
 languages:
@@ -16,14 +17,14 @@ tags:
 Need course info
 :::
 
-# Abstract
+# Description
 
 ...
 
-# Target audience
+# Audience
 
 ...
 
-# Bio
+# Instructor
 
 ...

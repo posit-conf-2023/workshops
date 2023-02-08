@@ -3,6 +3,7 @@ title: "Posit Team with R"
 author: "Ryan Johnson + Katie Masiello"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -13,14 +14,14 @@ tags:
 ---
 
 ::: callout-note
-Need course info
+Need course info.
 :::
 
-# Abstract
+# Description
 
 ...
 
-# Target audience
+# Audience
 
 This course is for you if you:
 
@@ -30,7 +31,7 @@ This course is for you if you:
 
 -   ...
 
-# Bio
+# Instructor
 
 **Ryan Johnson** is ...
 

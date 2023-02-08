@@ -1,6 +1,6 @@
 ---
-title: "Posit Team with Python"
-author: "Gagan Singh + TBD"
+title: "Machine Learning with Python and Scikit-Learn"
+author: "TBD"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"
@@ -9,12 +9,11 @@ day-two: "X"
 languages:
   - Python
 tags:
-  - data science
-  - pro products
+  - scikit-learn
 ---
 
 ::: callout-note
-Need course info.
+Need course info
 :::
 
 # Description
@@ -33,4 +32,4 @@ This course is for you if you:
 
 # Instructor
 
-**Gagan Singh** is ...
+...

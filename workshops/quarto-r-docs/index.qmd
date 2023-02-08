@@ -3,6 +3,7 @@ title: "Introduction to Quarto with R and RStudio: Documents and Presentations"
 author: "Andrew Bray"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -11,7 +12,7 @@ tags:
   - quarto
 ---
 
-# Abstract
+# Description
 
 This workshop will prepare you to author a rich array of documents in Quarto, the next generation of R Markdown.
 Quarto is an open-source scientific and technical publishing system that offers multilingual programming language support to create dynamic and static documents, books, presentations, blogs, and other online resources.\
@@ -21,17 +22,23 @@ The focus for this workshop will be on single documents.
 You will learn to create static documents, to add interactivity to them with Shiny and htmlwidgets, or steer them in the direction of sophisticated scientific documents.
 In the afternoon you'll take the same authoring approaches to create slide presentations in various formats such as reveal.js, beamer, and pptx.
 
-# Target audience
+# Audience
+
+::: callout-warning
+Needs one more bullet point.
+:::
 
 This course is for you if you:
 
--   have a basic knowledge of how to use the RStudio IDE.
+-   have a basic knowledge of how to use the RStudio IDE,
 
--   are excited to author a range of reproducible computational documents types, from static files to slides to websites.
+-   are excited to author a range of reproducible computational documents types, from static files to slides to websites,
+
+-   ...
 
 Seasoned users of R Markdown will get more out of the [Advanced Quarto with R and RStudio: Projects, Websites, Books, and More](/quarto-r-projects) workshop, which is focused on projects, a distinct strength of Quarto in authoring work that spans multiple documents.
 
-# Bio
+# Instructor
 
 **Andre Bray** is an Associate Teaching Professor in the Department of Statistics at UC Berkeley where he develops and teaches courses in statistics and data science.
 His research interests include statistical computing, data privacy, and applications of statistical models to solve real world problems.

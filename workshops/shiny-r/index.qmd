@@ -3,6 +3,7 @@ title: "Getting Started with Shiny for R"
 author: "Colin Rundel"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -11,27 +12,26 @@ tags:
   - shiny
 ---
 
-# Abstract
+# Description
 
 Shiny is an R package that makes it easy to build interactive web apps straight from R.
 This workshop will start at the beginning: designing and creating user interfaces, learning and mastering the reactive model that connects your R code to the interface, and deploying apps publicly and privately.
-We will wrap up with some intermediate-level tools: debugging and modularizing your apps and implementing dynamic user iterfaces.
+We will wrap up with some intermediate-level tools: debugging and modularizing your apps and implementing dynamic user interfaces.
 In the end, you'll be a confident Shiny user, able to design interactive apps to achieve your purpose and produce a polished and professional implementation.
 
-# Target audience
+# Audience
 
-This course is for you if:
+This course is for you if you:
 
--   you are comfortable with the basics of R, such as writing functions, indexing vectors and lists, debugging simple errors, and working with data structures like data frames.
--   you ...
--   you ...
+-   are comfortable with the basics of R, such as writing functions, indexing vectors and lists, debugging simple errors, and working with data structures like data frames,
+-   are interested in creating interactive web applications, and
+-   have no or minimal experience with Shiny for R.
 
-Your (lack of) previous experience with Shiny is not an issue.
-If you have experience, you'll see things in a new way.
+If you have a bit of experience, you'll see things in a new way.
 If you don't, we'll get you started on the right footing.
 
-# Bio
+# Instructor
 
-[**Colin Rundel**](https://rundel.github.io/)is Associate Professor of the Practice at Duke University where he has been teaching since 2012.
+[**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012.
 His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python.
 He has been teaching and using Shiny since 2015.

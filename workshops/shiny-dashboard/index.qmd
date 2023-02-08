@@ -3,6 +3,7 @@ title: "Shiny Dashboards"
 author: "Colin Rundel"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -13,21 +14,23 @@ tags:
   - user interface
 ---
 
-# Abstract
+# Description
 
 In this workshop we will explore all of the interesting and variety ways you can use shiny: from adding dynamic elements to your existing RMarkdown / Quarto documents, to building and deploying dashboards for reporting, and customizing the appearance and themeing of the app (and your outplots like plots and tables).
 This workshop assumes that you have a basic familiarity with Shiny (e.g. the ability to write simple apps and basics of reactivety).
 
-# Target audience
+# Audience
 
-This course is for you if:
+This course is for you if you:
 
--   you ...
--   you ...
--   you ...
+-   have some experience with Shiny and want to improve your skills,
+-   are interested in building dashboards for reporting, and
+-   want to learn about styling and theming your dashboards.
 
-# Bio
+Users who are new to Shiny will benefit from taking [Getting Started with Shiny for R](/shiny-r/) before joining this workshop.
 
-[**Colin Rundel**](https://rundel.github.io/)is Associate Professor of the Practice at Duke University where he has been teaching since 2012.
+# Instructor
+
+[**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012.
 His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python.
 He has been teaching and using Shiny since 2015.

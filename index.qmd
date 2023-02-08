@@ -8,6 +8,7 @@ listing:
       - "date"
       - "title"
     filter-ui: true
+    sort-ui: [title, author, day-one, day-two, languages, tags]
     fields: [title, author, day-one, day-two, languages, tags]
     field-display-names:
       author: "Instructor"
@@ -15,6 +16,10 @@ listing:
       day-two: "Day 2"
       languages: "Languages"
       tags: "Tags"
+    table-hover: true
+    table-striped: true
+    max-items: 35
+tbl-colwidths: [35,30,7,7,11,10]
 page-layout: full
 title-block-banner: true
 ---

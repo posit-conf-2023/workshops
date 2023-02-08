@@ -3,6 +3,7 @@ title: "Administering the Posit Professional Products"
 author: "Shannon Haggerty"
 date: "2023-09-17"
 length: "A-2-day"
+description: "2-day workshop"
 day-one: "X"
 day-two: "X"
 languages:
@@ -11,7 +12,7 @@ tags:
   - admin
 ---
 
-# Abstract
+# Description
 
 Attendees will learn the best practices for how to administer the Posit professional products.
 You'll learn the product architectures, options for monitoring and optimizing resource utilization, and the criteria you should consider as you scale.
@@ -19,17 +20,17 @@ You'll uncover the configurations that Posit Administrators can set to promote r
 You'll also learn how to scope and troubleshoot issues that may arise as your data scientists use the products.
 At the end of this workshop, Admins will better understand how they can best leverage the Posit professional products to serve their organization's data science needs over time.
 
-# Target audience
+# Audience
 
 This workshop is for you if you:
 
--   are responsible for the administration of Posit Workbench, Posit Connect, or Posit Package Manager at your organization.
+-   are responsible for the administration of Posit Workbench, Posit Connect, or Posit Package Manager at your organization,
 
--   have experience with Linux and can confidently navigate the file system, manage users and permissions, and read logs.
+-   have experience with Linux and can confidently navigate the file system, manage users and permissions, and read logs, and
 
 -   want to learn the best practices for administering the Posit products so that your team can get the most out of the products now and into the future. 
 
-# Bio
+# Instructor
 
 **Shannon Hargerty** is a Solutions Engineer at Posit, where she helps organizations determine how to optimize their configuration and use of the Posit Products for their use case.
 Before coming to Posit, Shannon earned a Ph.D. in Ecology and taught R and Python researchers.

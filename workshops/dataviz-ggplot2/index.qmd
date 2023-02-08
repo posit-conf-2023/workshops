@@ -3,6 +3,7 @@ title: "Engaging and Beautiful Data Visualizations with ggplot2"
 author: "Cédric Scherer"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -11,11 +12,7 @@ tags:
   - visualization
 ---
 
-::: {.callout-note appearance="minimal"}
-One-day workshop presented on Day 2 of workshops (2023-09-18).
-:::
-
-# Abstract
+# Description
 
 Creating effective and easily accessible data visualizations of high quality in an efficient and preferably reproducible way is an essential skill for everyone working in a data-related field.
 Luckily, by leveraging the functionality of ggplot2, the most famous package for data visualization with R, and related extension packages one can create highly customized data visualization without the need for post-processing.
@@ -25,7 +22,7 @@ Participants will learn the most important steps and helpful tips to create visu
 The power of ggplot2 and related extension packages will be illustrated with advanced real--life examples that help to understand useful coding tricks and the process of creating engaging and effective visualizations.
 The workshop will particularly focus on more advanced tasks with ggplot2 such as styling labels and titles, customizing themes and visual aesthetics, and using less-common chart types.
 
-# Target audience
+# Audience
 
 This course will be appropriate if you:
 
@@ -35,7 +32,7 @@ This course will be appropriate if you:
 
 -   want to learn how to create more complex charts which feature multiple layers, annotations, text styling, custom themes, and more.
 
-# Bio
+# Instructor
 
 [**Cédric Scherer**](https://cedricscherer.com) is a data visualization designer, consultant, and instructor helping clients and workshop participants to create engaging and effective graphics.
 As a graduated ecologist, he has acquired an extensive hypothesis--driven research experience and problem--solving expertise in data wrangling, statistical analysis, and model development.

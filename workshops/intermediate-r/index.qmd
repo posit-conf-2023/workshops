@@ -3,6 +3,7 @@ title: "Intermediate R programming"
 author: "Emma Rand + Ian Lyttle"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -12,7 +13,11 @@ tags:
   - programming
 ---
 
-# Abstract
+::: callout-warning
+Needs to be updated from last year's description.
+:::
+
+# Description
 
 This is a two-day, hands-on workshop for those who have embraced the tidyverse and want to build their own packages.
 
@@ -29,7 +34,7 @@ You'll also learn workflows for unit testing, which helps ensure that your funct
 
 -   Learn how to write collections of functions that work well together, and adhere to existing conventions so they're easy to pick up for newcomers.
 
-# Target audience
+# Audience
 
 This course is for you if you:
 
@@ -37,13 +42,12 @@ This course is for you if you:
 
 -   are already familiar with functions and are comfortable with R's basic data structures (vectors, matrices, arrays, lists, and data frames).
 
-# Bio
+# Instructor
 
-**Emma Rand** is a Senior Lecturer in the Department of Biology at the University of York where she specialises in teaching data science and reproducibility, particularly to those who do not see themselves as programmers.
+**Emma Rand** is a Senior Lecturer in the Department of Biology at the University of York where she specializes in teaching data science and reproducibility, particularly to those who do not see themselves as programmers.
 She leads a UKRI funded project called Cloud-SPAN which trains researchers in cloud-based high performance computing for 'omics.
-She is a Software Sustainability Institute Fellow, a Teaching team lead for R Forwards and delivers data science training for the Royal Society of Biology and the Biochemical Society.\
+She is a Software Sustainability Institute Fellow, a Teaching team lead for R Forwards and delivers data science training for the Royal Society of Biology and the Biochemical Society.
 
-\
 **Ian Lyttle** is a Data Scientist at Schneider Electric.
 His technical interests include visualization, interactivity, and functional programming.
 He is a community contributor to tidyverse and r-lib, and maintains CRAN packages including vegawidget and boxr.

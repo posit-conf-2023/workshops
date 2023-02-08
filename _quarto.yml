@@ -20,5 +20,8 @@ website:
 format:
   html:
     mainfont: "Atkinson Hyperlegible"
+    published-title: "Starts on"
+    author-title: "Instructor"
+    description-title: "Length"
 
 editor: visual

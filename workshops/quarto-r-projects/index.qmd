@@ -3,6 +3,7 @@ title: "Advanced Quarto with R and RStudio: Projects, Websites, Books, and More"
 author: "Andrew Bray"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -11,7 +12,7 @@ tags:
   - quarto
 ---
 
-# Abstract
+# Description
 
 This workshop will prepare you to author a rich array of documents in Quarto, the next generation of R Markdown.
 Quarto is an open-source scientific and technical publishing system that offers multilingual programming language support to create dynamic and static documents, books, presentations, blogs, and other online resources.
@@ -19,7 +20,7 @@ Quarto is an open-source scientific and technical publishing system that offers 
 The focus for this workshop will be on projects that weave together multiple documents and allow you to write books and build websites.
 You will also learn various ways to deploy and publish your Quarto projects on the web.
 
-# Target audience
+# Audience
 
 This course is for you if you:
 
@@ -27,9 +28,9 @@ This course is for you if you:
 
 -   are excited to author a range of reproducible computational documents types, from static files to slides to websites.
 
-Users who are new to computational documents will benefit from taking [Intro to Quarto with R and RStudio: Documents and Presentations](/quarto-r-docs) before joining this workshop.
+Participants who are new to computational documents will benefit from taking [Intro to Quarto with R and RStudio: Documents and Presentations](/quarto-r-docs) before joining this workshop.
 
-# Bio
+# Instructor
 
 **Andre Bray** is an Associate Teaching Professor in the Department of Statistics at UC Berkeley where he develops and teaches courses in statistics and data science.
 His research interests include statistical computing, data privacy, and applications of statistical models to solve real world problems.

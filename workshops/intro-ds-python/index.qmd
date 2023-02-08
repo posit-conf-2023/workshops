@@ -3,6 +3,7 @@ title: "Introduction to data science with Python"
 author: "Posit Academy Team"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -16,14 +17,14 @@ tags:
 Need course info
 :::
 
-# Abstract
+# Description
 
 ...
 
-# Target audience
+# Audience
 
 ...
 
-# Bio
+# Instructor
 
 ...

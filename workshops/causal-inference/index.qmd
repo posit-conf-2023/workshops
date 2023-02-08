@@ -3,6 +3,7 @@ title: "Causal Inference with R"
 author: "Malcolm Barrett + Travis Gerke"
 date: "2023-09-17"
 length: "A-2-day"
+description: "2-day workshop"
 day-one: "X"
 day-two: "X"
 languages:
@@ -13,7 +14,7 @@ tags:
   - inference
 ---
 
-# Abstract
+# Description
 
 In this workshop, we'll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting.
 
@@ -22,7 +23,7 @@ In this workshop, we'll teach the essential elements of answering causal questio
 We'll also show that by distinguishing predictive models from causal models, we can better take advantage of both tools.
 You'll be able to use the tools you already know\--the tidyverse, regression models, and more\--to answer the questions that are important to your work.
 
-# Target audience
+# Audience
 
 This course is for you if you:
 
@@ -32,7 +33,11 @@ This course is for you if you:
 
 -   are interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships.
 
-# Bio
+# Instructor
+
+::: callout-warning
+Need info from Travis
+:::
 
 **Malcolm Barrett** is a data scientist and an epidemiologist.
 During his Ph.D., he studied vision loss, focusing on epidemiologic methods.
@@ -40,4 +45,5 @@ He's since worked in the private sector, including Teladoc Health and Apple.
 Malcolm is also the author of several causal inference-focused R packages, such as ggdag and tidysmd.
 He regularly contributes to other open source software, including favorite community projects like usethis, ggplot2, R Markdown.
 
-Travis Gerke is ...
+**Travis Gerke** is ...
+

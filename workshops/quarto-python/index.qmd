@@ -3,6 +3,7 @@ title: "From Jupyter Notebooks to reproducible publications with Quarto"
 author: "Quarto Development Team"
 date: "2023-09-18"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: " "
 day-two: "X"
 languages:
@@ -12,7 +13,11 @@ tags:
   - notebooks
 ---
 
-# Abstract
+::: callout-note
+This information should be reviewed by the Quarto team.
+:::
+
+# Description
 
 Quarto is an open-source scientific and technical publishing system that is built on Pandoc.
 With Quarto, you can author documents as plain text markdown or Jupyter notebooks with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layouts, and more.
@@ -23,21 +28,29 @@ Additionally, we'll walk you through multilingual projects as well as publishing
 
 The learning outcomes for the workshop include:
 
--   Demonstrate how Quarto can enhance your existing reproducible authoring tools and workflows
+-   demonstrating how Quarto can enhance your existing reproducible authoring tools and workflows,
 
--   Leverage your reproducible authoring skills to create single Quarto documents
+-   leveraging your reproducible authoring skills to create single Quarto documents,
 
--   Take control of execution and layout options in computational documents
+-   taking control of execution and layout options in computational documents,
 
--   Create Quarto projects that bring together multiple Quarto documents as websites or books
+-   creating Quarto projects that bring together multiple Quarto documents as websites or books,
 
--   Author fully reproducible scientific manuscripts ready for journal submission
+-   authoring fully reproducible scientific manuscripts ready for journal submission, and
 
--   Extend Quarto with shortcodes and filters
+-   extending Quarto with shortcodes and filters.
 
-# Target audience
+# Audience
 
-This workshop is designed for those who have some experience with Python and Jupyter and who want to learn how Quarto can support and enhance their workflows for going from notebooks to reproducible publications.
-You do not need to be an advanced user of any of these, however, the workshop will assume that you have authored computational documents before.
+This workshop is for you if you:
 
-\
+-   have some experience with Python and Jupyter and who want to learn how Quarto can support and enhance your workflows,
+-   want to learn about going from notebooks to reproducible scientific publications, and
+-   are interested in creating websites or writing books from Jupyter notebooks.
+
+You do not need to be an advanced user of Python or Jupyter, however, the workshop will assume that you have authored computational documents before.
+
+# Instructors
+
+This workshop will be taught by members of the Quarto Development Team.
+

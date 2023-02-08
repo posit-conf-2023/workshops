@@ -3,6 +3,7 @@ title: "Web Design for Shiny Developers"
 author: "David Granjon + Maya Gans"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -12,14 +13,14 @@ tags:
   - user interface
 ---
 
-# Abstract
+# Description
 
 Website design and development is one of the most critical factors contributing to whether the user has a good or poor experience while browsing your site, directly influencing the overall impression of your brand.
 Besides, bad design decisions can significantly impact app performances.
 By exposing you to common governing rules of design, this course will walk you through the entire design process, from ideation to execution.
 These rules will help you to become a better collaborator to design teams, and enable you to create beautiful front-end experiences for Shiny.
 
-# Target audience
+# Audience
 
 This course is for you if:
 
@@ -29,13 +30,12 @@ This course is for you if:
 
 -   you want to increase the reach of your apps and websites
 
-# Bio
+# Instructor
 
 **David Granjon** holds a PhD in applied mathematics from Université Pierre et Marie Curie and Université de Lausanne.
 He is the founder and maintainer of the open source RinteRface organisation ([https://rinterface.com](https://www.google.com/url?q=https://rinterface.com&source=gmail-imap&ust=1675347738000000&usg=AOvVaw2NkucZjjrZRlnqHxASUhVq)) where he develops Shiny extensions ({bs4Dash}, {shinyMobile}, {shinydashboardplus}, ...) and deliver novel advanced Shiny workshops in worldwide R conferences like useR or R in Pharma.
 David works as a full-fulltime Senior Data Science Expert at Novartis where he provides his expertise to help associates to design outstanding user interfaces for clinical trials. 
 
-\
 **Maya Gans** is a Data Visualization Engineer at Atorus Research where she designs and develops custom applications using R, JavaScript, or a combination of both.
 As an intern at RStudio Maya designed TidyBlocks, a visual block based programming language.
 Maya also co-wrote JavaScript for Data Science.

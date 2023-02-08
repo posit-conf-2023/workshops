@@ -3,6 +3,7 @@ title: "Steal like an Rtist: Creative Coding in R"
 author: "Ijeamaka Anyene Fumagalli + Sharla Gelfand"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -13,7 +14,7 @@ tags:
   - art
 ---
 
-# Abstract
+# Description
 
 R is a tool for data analysis, but also can be used for self expression.
 This workshop will be an introduction to creative coding in R in order to make visual art.
@@ -25,17 +26,17 @@ This workshop is hands on and will cover colour theory and manipulation, a reint
 We will also discuss how to use controlled randomness to convert a standalone piece into a generative art system that can produce many distinct outputs.
 Creative coding may seem a world apart from data analysis, but we see a large overlap and intersection of the skills used in both, not to mention the creative muscles that are already used in data visualization.
 
-# Target audience
+# Audience
 
-This course will be appropriate if:
+This workshop is for you if you:
 
--   you are comfortable with R and RStudio, experience with tidyverse and ggplot2
+-   are comfortable with R and RStudio, experience with tidyverse and ggplot2,
 
--   you are interested in applying data visualization skills more creatively, but may not know where to start or how to develop style/inspiration
+-   are interested in applying data visualization skills more creatively, but may not know where to start or how to develop style/inspiration, and
 
--   you are an artists interested in exploring code as another medium for creating their work
+-   are an artist interested in exploring code as another medium for creating their work,
 
-# Bio
+# Instructor
 
 **Ijeamaka Anyene Fumagalli** is a full-time senior data analyst in the healthcare space and a free time computational artist.
 Using code, mainly the R programming language, she creates data art and generative art systems.

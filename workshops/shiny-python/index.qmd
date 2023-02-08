@@ -3,6 +3,7 @@ title: "Getting Started with Shiny for Python"
 author: "Matt Dancho"
 date: "2023-09-17"
 length: "B-1-day"
+description: "1-day workshop"
 day-one: "X"
 day-two: " "
 languages:
@@ -11,7 +12,7 @@ tags:
   - shiny
 ---
 
-# Abstract
+# Description
 
 Shiny for Python is a new technology for automating business analysis and data science for organizations that use Python and want to get applications into production in days (not months or years).
 In this one-day workshop, you will learn how to progressively build a Shiny for Python application using a "4-Step Shiny for Python Build Framework" on a real business case study that benefits both organizations and individuals.
@@ -35,15 +36,15 @@ I'll show you how with my 4-step framework. 
 
 No prior financial experience is required.
 
-# Target audience
+# Audience
 
-This course is for you if:
+This course is for you if you:
 
--   you are an R programmer interested in transitioning your skills from R to Python
--   you are a Python programmer interested in automating business analysis with Shiny for Python
--   you are interested in financial analysis with Shiny and Python
+-   are an R programmer interested in transitioning your skills from R to Python,
+-   are a Python programmer interested in automating business analysis with Shiny for Python, and
+-   are interested in financial analysis with Shiny and Python.
 
-# Bio
+# Instructor
 
 **Matt Dancho** is the founder of Business Science, an educational platform that teaches students how to apply data science to business problems.
 He is the author of several popular R packages including tidyquant, modeltime, and timetk.
