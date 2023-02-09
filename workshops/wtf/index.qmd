@@ -1,5 +1,5 @@
 ---
-title: "What They Forgot to Teach You About R"
+title: "WTF: Project oriented workflows with Git and GitHub"
 author: "Shannon Pileggi + David Aja"
 date: "2023-09-17"
 length: "B-1-day"
@@ -9,37 +9,24 @@ day-two: " "
 languages:
   - R
 tags:
-  - version control
+  - version control, projects, workflows
 ---
-
-::: callout-warning
-Needs to be updated for this year.
-:::
 
 # Description
 
-This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle.
-You'll learn holistic workflows that address the most common sources of friction in data analysis.
-We'll work on project-oriented workflows, version control for data science (Git/GitHub!), and how to plan for collaboration, communication, and iteration (incl. R Markdown).\
-
-\
-At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
+This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to (re)design their R lifestyle via project-oriented workflows and version control for data science (Git/GitHub). At the conclusion of the workshop you will have strategies for organizing data science projects and workflows, employing robust file paths, constructing human and machine readable file names, and facilitating collaboration with yourself or others via version control.
 
 # Audience
 
-This course is for you if you:
+This course is for you if you answer yes to these questions:
 
--   have been using R for a while and feel there might be better ways to organize your R life, but don't know what they are,
--   want to streamline your workflow for doing analysis and automating repetitive tasks in R, or
--   are willing to get into the weeds of your R installation, project organization, error messages, and source code.
+- Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
+- Do you want to put programming on pause and learn about actionable programming-adjacent workflows for streamlining analysis in R?
+- Are you willing to feel a bit of (git) pain to leverage the benefits of version control for collaboration and time travel?
 
-# Instructor
 
-**Shannon Pileggi** PhD is a Data Scientist with more than ten years of experience partnering on data analysis with diverse stakeholders in academic, corporate, tech, public health, and clinical research settings.
-An enthusiastic educator and statistical collaborator, Shannon started her career in academia as a Lecturer with the Institute for Quantitative Theory and Methods at Emory University, and later as an Assistant Professor at California Polytechnic State University, San Luis Obispo.
-When she transitioned to industry in 2019, Shannon leveraged open source and community resources to adopt modern programming practices and workflows in R.
-In 2020, Shannon began to give back to the R community through blogging and developing R-Ladies workshops; she currently serves as a member of the R-Ladies Global Team.
-Shannon spends her days wrangling data, creating reproducible reports, building shiny apps, developing R packages, and mentoring junior Data Scientists at The Prostate Cancer Clinical Trials Consortium, housed under Memorial Sloan Kettering Cancer Center.\
+# Instructors
 
-\
-**David Aja** is ...
+**Shannon Pileggi** PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible.
+
+**David Aja** is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.
