@@ -9,6 +9,7 @@ day-two: " "
 languages:
   - R
 tags:
+  - tidymodels
   - modelling
 ---
 
