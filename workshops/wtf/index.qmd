@@ -27,6 +27,7 @@ This course is for you if you answer yes to these questions:
 
 # Instructors
 
-**Shannon Pileggi** PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible.
+[**Shannon Pileggi**](https://www.pipinghotdata.com/) PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible.
 
-**David Aja** is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.
+[**David Aja**](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.
+
