@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Package Development"
+title: "Fundamentals of Package Development"
 author: "Andy Teucher"
 date: "2023-09-18"
 length: "B-1-day"
@@ -13,18 +13,8 @@ tags:
   - programming
 ---
 
-::: callout-note
-Need course info.
-:::
+<!-- content is sourced from pkgdev-1 since the same workshop
+is listed twice - that way we don't have to update in two places -->
 
-# Description
+{{< include ../pkgdev-1/_pkg-dev-content.qmd >}}
 
-...
-
-# Audience
-
-...
-
-# Instructor
-
-**Andy Teucher** is ...
