@@ -14,7 +14,6 @@ This workshop is for you if:
 -   You know how to write functions in R
 -   You are looking for a way to take the next step in your R programming journey
 
-#### Note: 
 We will be demonstrating some workflows using Git and GitHub. Knowledge of these tools is not required, and you will absolutely be able to complete the workshop without them, but some of the lessons will be more rewarding to you if you are prepared to try them out. If you are looking to get started with Git and GitHub, we recommend you register for the ["What they forgot to teach you about R"](https://posit-conf-2023.github.io/workshops/workshops/wtf/) workshop on Day 1, and join us for this workshop on Day 2.
 
 # Instructor

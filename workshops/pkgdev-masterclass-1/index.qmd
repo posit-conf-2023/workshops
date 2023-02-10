@@ -13,24 +13,6 @@ tags:
   - programming
 ---
 
-# Description
+<!-- content is sourced from a separate file since the same workshop is listed twice - that way we don't have to update in two places -->
 
-In this one-day masterclass, you'll have the opportunity to dig deep into package development.
-We'll cover a selection of cutting-edge topics (e.g. advanced testing tools, writing actionable error messages) that have significantly impacted the way we develop packages in the last couple of years.
-There will be plenty of time to apply what you learn to your own package, in an environment where you can get help and talk things through with the tidyverse team.
-
-# Audience
-
-This workshop is for you if you:
-
--   have already developed one or more packages, and are prepared to work on them during with workshop,
--   are familiar with the basic devtools/RStudio workflow (e.g. `load_all()`, roxygen2, testthat, and usethis), and
--   are familiar with Git.
-
-# Instructor
-
-[**Hadley Wickham**](https://hadley.nz) is Chief Scientist at RStudio, winner of the 2019 COPSS award, and a member of the R Foundation.
-He builds tools (both computational and cognitive) to make data science easier, faster, and more fun.
-His work includes packages for data science (like the tidyverse, which includes ggplot2, dplyr, and tidyr)and principled software development (e.g. roxygen2, testthat, and pkgdown).
-He is also a writer, educator, and speaker promoting the use of R for data science.
-Learn more on his website, <https://hadley.nz>.
+{{< include _pkgdev-masterclass-content.qmd >}}
