@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Python for Data Scientistsn"
+title: "Introduction to Data Science with Python"
 author: "Posit Academy Team"
 date: "2023-09-17"
 length: "B-1-day"
