@@ -1,5 +1,5 @@
 ---
-title: "Introduction to data science with Python"
+title: "Introduction to Python for Data Scientistsn"
 author: "Posit Academy Team"
 date: "2023-09-17"
 length: "B-1-day"
@@ -13,18 +13,14 @@ tags:
   - pandas
 ---
 
-::: callout-note
-Need course info
-:::
-
 # Description
 
-...
+Coming soon.
 
 # Audience
 
-...
+Coming soon.
 
 # Instructor
 
-...
+Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-student collaboration.

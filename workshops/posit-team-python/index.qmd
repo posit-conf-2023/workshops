@@ -1,6 +1,6 @@
 ---
 title: "Posit Team with Python"
-author: "Gagan Singh + TBD"
+author: "Gagan Singh + Sam Edwardes"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"
