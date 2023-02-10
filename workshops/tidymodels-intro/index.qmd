@@ -31,13 +31,13 @@ Intermediate or expert familiarity with modeling or machine learning is not requ
 
 # Instructor
 
-**Hannah Frick** is a software engineer and statistician on the tidymodels team at Posit.
+[**Hannah Frick**](https://www.frick.ws/) is a software engineer and statistician on the tidymodels team at Posit.
 She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.
 
-**Simon Couch** works on software for statistical modeling on the tidymodels team at Posit.
+[**Simon Couch**](https://www.simonpcouch.com/) works on software for statistical modeling on the tidymodels team at Posit.
 With a background in statistics and sociology, Simon is passionate about free and open source software and data pedagogy.
 He is an author and maintainer of several R packages, including the stacks package, which was awarded the 2021 John M. Chambers Statistical Software Award.
 
-**Emil Hvitfeldt** is a software engineer at Posit and part of the tidymodels team's effort to improve R's modeling capabilities.
+[**Emil Hvitfeldt**](https://www.emilhvitfeldt.com/) is a software engineer at Posit and part of the tidymodels team's effort to improve R's modeling capabilities.
 He maintains several packages within the realms of modeling, text analysis, and color palettes.
 He co-authored the book *Supervised Machine Learning for Text Analysis in R* with Julia Silge.
