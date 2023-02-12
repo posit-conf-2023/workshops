@@ -1,6 +1,6 @@
 ---
 title: "From Jupyter Notebooks to reproducible publications with Quarto"
-author: "Quarto Development Team"
+author: "Hamel Husain"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"
@@ -53,4 +53,3 @@ You do not need to be an advanced user of Python or Jupyter, however, the worksh
 # Instructors
 
 This workshop will be taught by members of the Quarto Development Team.
-

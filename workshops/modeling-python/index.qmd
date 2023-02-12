@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning with Python and Scikit-Learn"
-author: "TBD"
+author: "Sebastian Raschka"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"
