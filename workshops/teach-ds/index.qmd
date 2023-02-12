@@ -1,5 +1,5 @@
 ---
-title: "Teaching Data Science"
+title: "Teaching a modern data science course"
 author: "Mine Çetinkaya-Rundel"
 date: "2023-09-18"
 length: "B-1-day"
@@ -10,28 +10,53 @@ languages:
   - R
 tags:
   - teaching
+  - tidyverse
+  - Quarto
+  - version control
 ---
-
-::: callout-note
-Need course info.
-:::
 
 # Description
 
-...
+Success in data science and statistics is dependent on the development of both analytical and computational skills, and the demand for educators who are proficient at teaching both these skills is growing.
+The goal of this workshop is to equip educators with concrete information on content, workflows, and infrastructure for painlessly introducing modern computation with R and RStudio within a data science curriculum.
+There has been significant innovation in introductory statistics and data science courses to equip students with the statistical, computing, and communication skills needed for modern data analysis.
+Innovating subsequent courses is also important, so students can continue developing these skills beyond the first course.
+
+In this workshop, we\'ll present a modern approach to and workflows for teaching data science.
+We'll discuss teaching the tidyverse in 2023, highlighting updates to the R for Data Science book as well as the tidyverse in general that should be reflected in today's data science curricula as well as present tooling options and workflows for reproducible authoring, computing infrastructure, version control, and collaboration.
+
+The workshop will be comprised of four modules:
+
+-   Teaching data science with the tidyverse and Quarto
+-   Teaching data science with Git and GitHub
+-   Organizing, publishing, and sharing of course materials
+-   Computing infrastructure for teaching data science
+
+Throughout each module we'll shift between the student perspective and the instructor perspective.
+The activities and demos will be hands-on; attendees will also have the opportunity to exchange ideas and ask questions throughout the session.
+
+In addition to gaining technical knowledge, participants will engage in discussion around the decisions that go into developing a data science curriculum and choosing workflows and infrastructure that best support the curriculum and allow for scalability.
+We will also discuss best practices for configuring and deploying classroom infrastructures to support these tools.
 
 # Audience
 
+This workshop is aimed primarily at participants teaching data science in an academic setting in semester-long courses, however much of the information and tooling we introduce is applicable for shorter teaching experiences like workshops and bootcamps as well.
+Basic knowledge of R is assumed and familiarity with the tidyverse and Git is preferred.
+
 This course is for you if you:
 
--   ...
-
--   ...
-
--   ...
+-   you want to learn / discuss curriculum, pedagogy, and computing infrastructure design for teaching data science with R and RStudio using the tidyverse and Quarto,
+-   you are interested in setting up your class in Posit Cloud,
+-   you want to integrate version control with git into your teaching and learn about tools and best practices for running your course on GitHub.
 
 # Instructor
 
-**Mine Çetinkaya-Rundel** is ...
+[Dr. Mine Çetinkaya-Rundel](http://mine-cr.com/) (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit.
+Mine\'s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM.
+Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets.
+Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education.
+As part of this project she co-authored four open-source introductory statistics textbooks.
+She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera.
+Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching Introductory Statistics.\
 
 \

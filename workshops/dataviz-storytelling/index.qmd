@@ -1,5 +1,5 @@
 ---
-title: "Designing Data Visualizations for Successfully Telling a Story"
+title: "Designing Data Visualizations to Successfully Tell a Story"
 author: "Cédric Scherer"
 date: "2023-09-17"
 length: "B-1-day"
