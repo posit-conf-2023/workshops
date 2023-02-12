@@ -1,0 +1,39 @@
+---
+title: "Data Science Workflows with Posit Tools — R Focus"
+author: "Ryan Johnson + Katie Masiello"
+date: "2023-09-17"
+length: "B-1-day"
+description: "1-day workshop"
+day-one: "X"
+day-two: " "
+languages:
+  - R
+tags:
+  - data science
+  - pro products
+---
+
+::: callout-note
+Need course info.
+:::
+
+# Description
+
+In this R-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We’ll use Posit’s open source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.
+
+# Audience
+
+This course is for you if you:
+
+- Build finished data products starting from raw data and are looking to improve your workflow
+- Are looking to expand your knowledge of Posit open source and professional tools
+- Want to improve interoperability between data products in your work or on your team
+- Have experience developing in R. A analogous course with a Python focus is also offered
+
+
+
+# Instructor
+
+**Ryan Johnson** is a Data Science Advisor at Posit with a background in Microbiology and Bioinformatics. He obtained his PhD from the Uniformed Services University in Maryland and did his postdoctoral training at the National Human Genome Research Institute, NIH. The only thing that rivals his love for infectious diseases is generating ‘super cool’ visualizations from large data sets using R and RStudio. In his free time, you can find Ryan running marathons/ultramarathons in the DC area or hiking miles along the Appalachian Trail. Ryan resides in Gaithersburg with his wife and two feline co-workers.
+
+**Katie Masiello** is a Solutions Engineer at Posit. A mechanical engineer by training, she found her calling in data science while working statistical analysis in the aerospace industry. A good cup of coffee, reproducibility, and making life easier for the next user are three things she loves most. Katie is an avid knitter and knitr, and she can often be found trying to tame her ridiculously overgrown garden, collecting pebbles, or thinking about taking up running as a hobby.

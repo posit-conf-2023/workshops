@@ -1,0 +1,35 @@
+---
+title: "Data Science Workflows with Posit Tools — Python Focus"
+author: "Gagan Singh + Sam Edwardes"
+date: "2023-09-18"
+length: "B-1-day"
+description: "1-day workshop"
+day-one: " "
+day-two: "X"
+languages:
+  - Python
+tags:
+  - data science
+  - pro products
+---
+
+# Description
+
+In this Python-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We’ll use Posit’s open source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.
+
+# Audience
+
+This course is for you if you:
+
+- Build finished data products starting from raw data and are looking to improve your workflow
+- Are looking to expand your knowledge of Posit open source and professional tools
+- Want to improve interoperability between data products in your work or on your team
+- Have experience developing in Python. A analogous course with an R focus is also offered
+
+# Instructor
+
+**Gagan Singh** is a former software engineer and data scientist who has worked in a variety of cross-technology teams. Before joining Posit as a Solutions Engineer, he was consulting with fortune 500 companies to build their analytical capacities. Outside of work you can find him at a local bookstore or exploring the beautiful Pacific Northwest.
+
+**Sam Edwards** is obsessed with data science, R, Python, and all things open source. As a Solutions Engineer at Posit, he loves getting into the nitty gritty and optimizing everything. When he is not tinkering on his computer you can find Sam and his dog Roo on adventures in beautiful British Columbia.
+
+
