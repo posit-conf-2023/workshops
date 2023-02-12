@@ -13,10 +13,6 @@ tags:
   - pro products
 ---
 
-::: callout-note
-Need course info.
-:::
-
 # Description
 
 In this Python-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We’ll use Posit’s open source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.
