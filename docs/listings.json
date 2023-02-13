@@ -2,7 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/workshops/posit-admin/index.html",
+      "/workshops/admin/index.html",
       "/workshops/causal-inference/index.html",
       "/workshops/intro-ds-r/index.html",
       "/workshops/forecasting/index.html",
@@ -26,13 +26,13 @@
       "/workshops/modeling-deploy/index.html",
       "/workshops/dataviz-ggplot2/index.html",
       "/workshops/quarto-python/index.html",
-      "/workshops/intermediate-r/index.html",
+      "/workshops/programming-r/index.html",
       "/workshops/pkgdev-2/index.html",
       "/workshops/modeling-python/index.html",
       "/workshops/pkgdev-masterclass-2/index.html",
       "/workshops/shiny-dashboard/index.html",
       "/workshops/shiny-production/index.html",
-      "/workshops/programming-art/index.html",
+      "/workshops/gen-art/index.html",
       "/workshops/teach-ds/index.html"
     ]
   }
