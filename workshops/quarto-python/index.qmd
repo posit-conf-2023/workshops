@@ -20,7 +20,7 @@ Sharing knowledge through writing is a critical aspect of scientific activity, i
 
 Enter Quarto - an innovative, open-source scientific and technical publishing system compatible with Jupyter Notebooks and other popular mediums. Quarto provides data scientists with a seamless way to publish their work in a high-quality format that is easily accessible and shareable. With Quarto, researchers can turn their Jupyter Notebooks into professional-looking publications in a variety of formats, including web pages, books, and slides.
 
-In this talk, we will demonstrate how Quarto enables data scientists to turn their work products into professional, high-quality publications, websites, blog posts, and other shareable artifacts.  As a bonus, we will also discuss how you can create and document Python packages using Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
+In this workshop, we will demonstrate how Quarto enables data scientists to turn their work products into professional, high-quality publications, websites, blog posts, and other shareable artifacts.  As a bonus, we will also discuss how you can create and document Python packages using Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
 
 The learning outcomes for the workshop include:
 
