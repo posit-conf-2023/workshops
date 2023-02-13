@@ -52,4 +52,4 @@ The workshop will assume some prior experience with Python and Jupyter Notebooks
 
 # Instructors
 
-This workshop will be taught by [Hamel Husain](https://hamel.dev).
+This workshop will be taught by [Hamel Husain](https://hamel.dev).  Hamel is an entreprenuer-in-residence at [fast.ai](https://github.com/fastai), where he is building new software development tools like [nbdev](https://github.com/fastai/nbdev) that leverages Quarto.  Prior to fast.ai, Hamel was a machine learning engineer at companies like Airbnb, GitHub, and DataRobot, and other related roles in management consulting.  You can find more about Hamel on his [personal site](https://hamel.dev/).
