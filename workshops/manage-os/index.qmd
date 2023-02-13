@@ -24,7 +24,7 @@ This workshop is for you if you:
 
 -   are involved in maintaining an open source project and struggling to feel like it's sustainable, or are looking for practice or guidance,
 -   are starting out or interested in being involved in maintaining an open source project, and want to learn how to set up the project for the most effective engagement from contributors and users, or
--   you are interested in learning more about the people side of open source project maintenance and connecting with other maintainers.
+-   are interested in learning more about the people side of open source project maintenance and connecting with other maintainers.
 
 # Instructor
 
