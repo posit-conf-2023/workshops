@@ -1,5 +1,5 @@
 ---
-title: "From Jupyter Notebooks to reproducible publications with Quarto"
+title: "Enhancing Communication & Collaboration in Data Science with Quarto and Jupyter Notebooks"
 author: "Hamel Husain"
 date: "2023-09-18"
 length: "B-1-day"
@@ -11,45 +11,45 @@ languages:
 tags:
   - quarto
   - notebooks
+  - python
 ---
-
-::: callout-note
-This information should be reviewed by the Quarto team.
-:::
 
 # Description
 
-Quarto is an open-source scientific and technical publishing system that is built on Pandoc.
-With Quarto, you can author documents as plain text markdown or Jupyter notebooks with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layouts, and more.
-In this workshop, you will learn how to use Quarto for technical communication and computation.
-We'll teach you how to get started creating and fully customizing Quarto outputs (HTML, PDF, Presentations) leveraging integrations with both IPython/Jupyter and the Quarto VS Code extension.
-We will also touch on authoring scientific manuscripts that adhere to specific journal styles as well as creating Quarto projects for aggregating many files such as complex websites or entire books.
-Additionally, we'll walk you through multilingual projects as well as publishing on QuartoPub.
+Sharing knowledge through writing is a critical aspect of scientific activity, including data science. It allows researchers to communicate their findings and insights to a wider audience, build upon existing work, and collaborate with others in their field. However, until recently, there have been limited options for publishing long-form writing and expository analyses authored in Jupyter Notebooks, a popular medium for data scientists.
+
+Enter Quarto - an innovative, open-source scientific and technical publishing system compatible with Jupyter Notebooks and other popular mediums. Quarto provides data scientists with a seamless way to publish their work in a high-quality format that is easily accessible and shareable. With Quarto, researchers can turn their Jupyter Notebooks into professional-looking publications in a variety of formats, including web pages, books, and slides.
+
+In this workshop, we will demonstrate how Quarto enables data scientists to turn their work products into professional, high-quality publications, websites, blog posts, and other shareable artifacts.  As a bonus, we will also discuss how you can create and document Python packages using Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
 
 The learning outcomes for the workshop include:
 
--   demonstrating how Quarto can enhance your existing reproducible authoring tools and workflows,
+-   examine case studies where sharing scientific knowledge has greatly improved the efficacy of data science teams.
 
--   leveraging your reproducible authoring skills to create single Quarto documents,
+-   author documents in plain text markdown or Jupyter notebooks with equations, citations, crossrefs, figure panels, callouts, and advanced layouts.
 
--   taking control of execution and layout options in computational documents,
+-   learn how to author content in IPython/Jupyter and the Quarto VS Code extension.
 
--   creating Quarto projects that bring together multiple Quarto documents as websites or books,
+-   leverage Quarto for creating different types of publications, including personal blogs, knowledge management for teams, notes, books, websites, and presentation slides.
 
--   authoring fully reproducible scientific manuscripts ready for journal submission, and
+-   extend Quarto with notebook filters and extensions.
 
--   extending Quarto with shortcodes and filters.
+-   host websites and publications on platforms like GitHub Pages, QuartoPub, and Netlify.
+
+-   test notebooks and documentation with Quarto's execution options.
+
+-   create and document Python packages with [nbdev](https://nbdev.fast.ai/) and Quarto. 
 
 # Audience
 
 This workshop is for you if you:
 
--   have some experience with Python and Jupyter and who want to learn how Quarto can support and enhance your workflows,
--   want to learn about going from notebooks to reproducible scientific publications, and
--   are interested in creating websites or writing books from Jupyter notebooks.
+-   have some experience with Python and Jupyter and want to learn how Quarto can support and enhance your workflows,
+-   want to learn about turning your notebooks to websites and publications and
+-   want to learn how to write python packages with Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
 
-You do not need to be an advanced user of Python or Jupyter, however, the workshop will assume that you have authored computational documents before.
+The workshop will assume some prior experience with Python and Jupyter Notebooks.
 
 # Instructors
 
-This workshop will be taught by members of the Quarto Development Team.
+This workshop will be taught by [Hamel Husain](https://hamel.dev).  Hamel is an entreprenuer-in-residence at [fast.ai](https://github.com/fastai), where he is building new software development tools like [nbdev](https://github.com/fastai/nbdev) that leverages Quarto.  Prior to fast.ai, Hamel was a machine learning engineer at companies like Airbnb, GitHub, and DataRobot, and other related roles in management consulting.  You can find more about Hamel on his [personal site](https://hamel.dev/).
