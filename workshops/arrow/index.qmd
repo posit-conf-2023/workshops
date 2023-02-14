@@ -33,6 +33,6 @@ This course is for you if you:
 
 # Instructors
 
-**Nic Crane**
+**Nic Crane** is a software engineer with a background in data science, and has a lot of enthusiasm for open source and learning and teaching all things R.  Nic is part of the core team who maintain the Arrow R package.
 
 **Steph Hazlitt** is a data scientist, researcher and R enthusiast. She earned a PhD in ecological genetics from the University of Queensland, and since then has spent the better part of her career wrangling data with R and supporting people and teams in learning, creating and sharing data science-related products and open source software.
