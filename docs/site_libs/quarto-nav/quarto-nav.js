@@ -149,6 +149,14 @@ window.document.addEventListener("DOMContentLoaded", function () {
     };
   }
 
+  window.addEventListener(
+    "hashchange",
+    function (e) {
+      window.scrollTo(0, window.pageYOffset - headerOffset());
+    },
+    false
+  );
+
   // Observe size changed for the header
   const headerEl = window.document.querySelector("header.fixed-top");
   if (headerEl && window.ResizeObserver) {
@@ -172,7 +180,9 @@ window.document.addEventListener("DOMContentLoaded", function () {
   if (window.location.protocol !== "file:") {
     const links = window.document.querySelectorAll("a");
     for (let i = 0; i < links.length; i++) {
-      links[i].href = links[i].href.replace(/\/index\.html/, "/");
+      if (links[i].href) {
+        links[i].href = links[i].href.replace(/\/index\.html/, "/");
+      }
     }
 
     // Fixup any sharing links that require urls

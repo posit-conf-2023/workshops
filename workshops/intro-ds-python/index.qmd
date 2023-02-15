@@ -15,11 +15,17 @@ tags:
 
 # Description
 
-Coming soon.
+This is not a standard workshop, but a six-week online apprenticeship that culminates in two in-person days at posit::conf(2023). Here, you will learn the foundations of Python and data analysis under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow students. Topics will include importing packages and datasets, visualizing data with plotnine, wrangling data with pandas, writing and applying functions, and reporting reproducibly with quarto. Begins August 7th, 2023. No knowledge of Python required. Visit [http://posit.co/academy](https://www.google.com/url?q=http://posit.co/academy&source=gmail-imap&ust=1677017488000000&usg=AOvVaw3yY4MqPaT1vQFeyevvGpmS) to learn more about this uniquely effective learning format.
 
 # Audience
 
-Coming soon.
+This course is ideal for:
+
+-   those new to Python,
+
+-   anyone who has dabbled in Python, but now wants a rigorous foundation in up-to-date data science best practices, or
+
+-   SAS and Excel users looking to switch their workflows to Python.
 
 # Instructor
 
