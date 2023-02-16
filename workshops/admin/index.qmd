@@ -1,6 +1,6 @@
 ---
-title: "Administering the Posit Professional Products"
-author: "Shannon Haggerty"
+title: "DevOps for Data Scientists"
+author: "Rika Gorn"
 date: "2023-09-17"
 length: "A-2-day"
 description: "2-day workshop"
@@ -8,29 +8,28 @@ day-one: "X"
 day-two: "X"
 languages:
   - R
+  - Shell scripting
 tags:
   - admin
 ---
 
 # Description
 
-Attendees will learn the best practices for how to administer the Posit professional products.
-You'll learn the product architectures, options for monitoring and optimizing resource utilization, and the criteria you should consider as you scale.
-You'll uncover the configurations that Posit Administrators can set to promote reproducible data science workflows.
-You'll also learn how to scope and troubleshoot issues that may arise as your data scientists use the products.
-At the end of this workshop, Admins will better understand how they can best leverage the Posit professional products to serve their organization's data science needs over time.
+In this workshop, we will discuss ways to better deploy, scale, and containerize your Data products!  We'll use both R and shell scripting to virtualize Posit products in the cloud. You'll learn enough  Linux sysadmin, security, and authorization to be dangerous - or at least to understand your IT and DevSecOps teams. By the end of the workshop you will have the tools to start deploying your own data science assets into production. 
+
 
 # Audience
 
 This workshop is for you if you:
 
--   are responsible for the administration of Posit Workbench, Posit Connect, or Posit Package Manager at your organization,
+-   Are a Data Scientist or Analyst who wants to put their work into production
 
--   have experience with Linux and can confidently navigate the file system, manage users and permissions, and read logs, and
+-   want to learn a little more about Docker containers and virtual machines
 
--   want to learn the best practices for administering the Posit products so that your team can get the most out of the products now and into the future. 
+-   want to better understand how DevOps, IT, or security can be leveraged to support the work of Data Scientists
+
+-   are responsible for the administration of Posit Workbench, Posit Connect, or Posit Package Manager at your organization
 
 # Instructor
 
-**Shannon Hargerty** is a Solutions Engineer at Posit, where she helps organizations determine how to optimize their configuration and use of the Posit Products for their use case.
-Before coming to Posit, Shannon earned a Ph.D. in Ecology and taught R and Python researchers.
+**Rika Gorn** is a Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products as well as open source tooling. Before coming to Posit, Rika worked as a Data Science Manager at a mental health tech company. 
