@@ -1,1 +1,0 @@
-Headshots of workshop instructors
