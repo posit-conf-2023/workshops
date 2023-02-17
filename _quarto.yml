@@ -14,9 +14,14 @@ website:
 
   navbar:
     background: "#447099"
+    right:
+      - icon: github
+        href: https://github.com/posit-conf-2023/workshops
     left:
       - text: Workshops
         href: index.qmd
+      - text: Pathways
+        href: patways.qmd
 
 format:
   html:

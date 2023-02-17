@@ -35,6 +35,7 @@ workshops |>
     rows = type == "2-day"
   ) |>
   cols_hide(type) |>
+  # cols_width not applied in Quarto page
   cols_width(
     no ~ pct(8),
     day_1 ~ pct(46),
@@ -44,6 +45,7 @@ workshops |>
     align = "left",
     columns = c(day_1, day_2)
   ) |>
+  # cell_borders not applied in Quarto page
   tab_style(
     style = cell_borders(
       sides = c("right"),
