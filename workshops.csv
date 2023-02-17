@@ -1,0 +1,19 @@
+room,no,type,day_1,day_1_slug,day_2,day_2_slug
+Michigan 2,1,2-day,Administering the Posit Professional Products,admin,,
+Grand Hall GH,2,2-day,Causal inference with R,causal-inference,,
+Randolph 1 AB,3,2-day,Introduction to Data Science with R,intro-ds-r,,
+Grand Hall I,4,2-day,Tidy time series and forecasting in R,forecasting,,
+Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Advanced tidymodels,tidymodels-advanced
+Michigan 3,2,1-day,Big Data with Arrow,arrow,Teaching a modern data science course,teach-ds
+Randolph 2,3,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python
+Grand Hall K,4,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2
+Roosevelt 3 AB,5,1-day,Fundamentals of Package Development,pkgdev,Fundamentals of Package Development,pkgdev
+Grand Hall L,6,1-day,Getting Started with Shiny for Python,shiny-python,Enhancing Communication & Collaboration in Data Science with Quarto and Jupyter Notebooks,quarto-python
+Michigan 1 ABC,7,1-day,Getting Started with Shiny for R,shiny-r,Shiny Dashboards,shiny-dashboard
+Grand Hall MN,8,1-day,Introduction to Data Science with Python,intro-ds-python,Machine Learning and Deep Learning with Python,ml-python
+Grand Ballroom F,9,1-day,Introduction to Quarto with R + RStudio: Documents and presentations,quarto-r-docs,"Advanced Quarto with R + RStudio: Projects, websites, books, and more",quarto-r-projects
+Grand Ballroom B,10,1-day,Introduction to tidymodels,tidymodels-intro,Deploy and maintain models with vetiver,modeling-deploy
+Randolph 3,11,1-day,It's not just code: managing an open source project,manage-os,Steal like an Rtist: Creative Coding in R,gen-art
+Roosevelt 1 AB,12,1-day,Package Development Masterclass,pkgdev-masterclass,Package Development Masterclass,pkgdev-masterclass
+Grand Ballroom E,13,1-day,Web Design for Shiny Developers,shiny-ui,Shiny in production: Tools and Techniques,shiny-production
+Grand Hall J,14,1-day,What they forgot to teach you about R,wtf,From R User to R programmer,programming-r

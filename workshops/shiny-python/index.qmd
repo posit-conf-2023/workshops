@@ -46,6 +46,8 @@ This course is for you if you:
 
 # Instructor
 
-**Matt Dancho** is the founder of Business Science, an educational platform that teaches students how to apply data science to business problems.
-He is the author of several popular R packages including tidyquant, modeltime, and timetk.
-Prior to leading Business Science, Matt has consulted for Fortune 500 companies including S&P Global, Ingredion, and MRM McCann, and has 15+ years of industry experience in marketing & sales analytics, demand forecasting, and finance.
+|                      |     |                                                                                                                                                   |
+|------------------|------------------|-------------------------------------|
+| ![](matt-dancho.jpg) |     | **Matt Dancho** is the founder of Business Science, an educational platform that teaches students how to apply data science to business problems. He is the author of several popular R packages including tidyquant, modeltime, and timetk. Prior to leading Business Science, Matt has consulted for Fortune 500 companies including S&P Global, Ingredion, and MRM McCann, and has 15+ years of industry experience in marketing & sales analytics, demand forecasting, and finance. |
+
+: {tbl-colwidths="\[25,5,70\]"}

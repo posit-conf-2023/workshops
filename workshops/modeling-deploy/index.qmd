@@ -34,6 +34,8 @@ This workshop is for you if you:
 
 # Instructor
 
-**Julia Silge** is a data scientist and software engineer at Posit PBC where she works on open source modeling and MLOps tools.
-She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning.
-Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences.
+|                                                                                                                      |     |                                                                                                                                                                                                                                                                   |
+|------------------|------------------|-------------------------------------|
+| ![](julia-silge.jpg) |     | **Julia Silge** is a data scientist and software engineer at Posit PBC where she works on open source modeling and MLOps tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning.Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences. |
+
+: {tbl-colwidths="\[25,5,70\]"}

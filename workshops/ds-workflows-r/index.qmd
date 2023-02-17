@@ -15,10 +15,7 @@ tags:
 
 # Description
 
-In this R-focused workshop, we will discuss ways to improve your data science workflows!
-During the course, we will review packages for data validation, alerting, modeling, and more.
-We'll use Posit's open source and professional tools to string all the pieces together for an efficient workflow.
-We'll discuss environments, managing deployed content, working with databases, and interoperability across data products.
+In this R-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We'll use Posit's open source and professional tools to string all the pieces together for an efficient workflow. We'll discuss environments, managing deployed content, working with databases, and interoperability across data products.
 
 # Audience
 
@@ -29,14 +26,11 @@ This course is for you if you:
 -   Want to improve interoperability between data products in your work or on your team
 -   Have experience developing in R. A analogous course with a Python focus is also offered
 
-# Instructor
+# Instructors
 
-**Ryan Johnson** is a Data Science Advisor at Posit with a background in Microbiology and Bioinformatics.
-He obtained his PhD from the Uniformed Services University in Maryland and did his postdoctoral training at the National Human Genome Research Institute, NIH. The only thing that rivals his love for infectious diseases is generating 'super cool' visualizations from large data sets using R and RStudio.
-In his free time, you can find Ryan running marathons/ultramarathons in the DC area or hiking miles along the Appalachian Trail.
-Ryan resides in Gaithersburg with his wife and two feline co-workers.
+|                         |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|----------------|----------------|----------------------------------------|
+| ![](ryan-johnson.jpg)   |     | [**Ryan Johnson**](https://www.linkedin.com/in/ryjohnson09/) is a Data Science Advisor at Posit with a background in Microbiology and Bioinformatics. He obtained his PhD from the Uniformed Services University in Maryland and did his postdoctoral training at the National Human Genome Research Institute, NIH. The only thing that rivals his love for infectious diseases is generating 'super cool' visualizations from large data sets using R and RStudio. In his free time, you can find Ryan running marathons/ultramarathons in the DC area or hiking miles along the Appalachian Trail. Ryan resides in Gaithersburg with his wife and two feline co-workers. |
+| ![](katie-masiello.jpg) |     | [**Katie Masiello**](https://www.linkedin.com/in/katiemasiello) is a Solutions Engineer at Posit. A mechanical engineer by training, she found her calling in data science while working statistical analysis in the aerospace industry. A good cup of coffee, reproducibility, and making life easier for the next user are three things she loves most. Katie is an avid knitter and knitr, and she can often be found trying to tame her ridiculously overgrown garden, collecting pebbles, or thinking about taking up running as a hobby.                                                                                                                              |
 
-**Katie Masiello** is a Solutions Engineer at Posit.
-A mechanical engineer by training, she found her calling in data science while working statistical analysis in the aerospace industry.
-A good cup of coffee, reproducibility, and making life easier for the next user are three things she loves most.
-Katie is an avid knitter and knitr, and she can often be found trying to tame her ridiculously overgrown garden, collecting pebbles, or thinking about taking up running as a hobby.
+: {tbl-colwidths="\[25,5,70\]"}

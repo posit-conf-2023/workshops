@@ -14,11 +14,7 @@ tags:
 
 # Description
 
-Attendees will learn the best practices for how to administer the Posit professional products.
-You'll learn the product architectures, options for monitoring and optimizing resource utilization, and the criteria you should consider as you scale.
-You'll uncover the configurations that Posit Administrators can set to promote reproducible data science workflows.
-You'll also learn how to scope and troubleshoot issues that may arise as your data scientists use the products.
-At the end of this workshop, Admins will better understand how they can best leverage the Posit professional products to serve their organization's data science needs over time.
+Attendees will learn the best practices for how to administer the Posit professional products. You'll learn the product architectures, options for monitoring and optimizing resource utilization, and the criteria you should consider as you scale. You'll uncover the configurations that Posit Administrators can set to promote reproducible data science workflows. You'll also learn how to scope and troubleshoot issues that may arise as your data scientists use the products. At the end of this workshop, Admins will better understand how they can best leverage the Posit professional products to serve their organization's data science needs over time.
 
 # Audience
 
@@ -32,5 +28,9 @@ This workshop is for you if you:
 
 # Instructor
 
-**Shannon Hargerty** is a Solutions Engineer at Posit, where she helps organizations determine how to optimize their configuration and use of the Posit Products for their use case.
-Before coming to Posit, Shannon earned a Ph.D. in Ecology and taught R and Python researchers.
+|                          |     |                                                                                                                                                                                                                                                                                     |
+|--------------|--------------|--------------------------------------------|
+| ![](shannon-hagerty.png) |     | **Shannon Hargerty** is a Solutions Engineer at Posit, where she helps organizations determine how to optimize their configuration and use of the Posit Products for their use case. Before coming to Posit, Shannon earned a Ph.D. in Ecology and taught R and Python researchers. |
+
+: {tbl-colwidths="[25,5,70]"}
+
