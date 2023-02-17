@@ -1,5 +1,6 @@
 ---
-title: "Introduction to Quarto with R and RStudio: Documents and Presentations"
+title: "Introduction to Quarto with R & RStudio"
+subtitle: "Documents and Presentations"
 author: "Andrew Bray"
 date: "2023-09-17"
 length: "B-1-day"
@@ -35,8 +36,8 @@ Seasoned users of R Markdown will get more out of the [Advanced Quarto with R an
 
 # Instructor
 
-|                      |     |                                                                                                                                                                         |
-|------------------|------------------|-------------------------------------|
+|                      |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------|------------------|------------------------------------|
 | ![](andrew-bray.jpg) |     | **Andrew Bray** is an Associate Teaching Professor in the Department of Statistics at UC Berkeley where he develops and teaches courses in statistics and data science. His research interests include statistical computing, data privacy, and applications of statistical models to solve real world problems. He was previously an Associate Professor of Statistics in the Department of Mathematics at Reed College and an NSF Five Colleges postdoctoral fellow in western Massachusetts. |
 
 : {tbl-colwidths="\[25,5,70\]"}
