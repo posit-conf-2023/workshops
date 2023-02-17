@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Communication & Collaboration in Data Science with Quarto and Jupyter Notebooks"
+title: "Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto"
 author: "Hamel Husain"
 date: "2023-09-18"
 length: "B-1-day"
@@ -57,8 +57,8 @@ The workshop will assume some prior experience with Python and Jupyter Notebooks
 
 # Instructors
 
-|                       |     |                                        |
-|-----------------------|-----|----------------------------------------|
+|                       |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|--------------------|--------------|-------------------------------------|
 | ![](hamel-husain.jpg) |     | [**Hamel Husain**](https://hamel.dev). Hamel is an entreprenuer-in-residence at [fast.ai](https://github.com/fastai), where he is building new software development tools like [nbdev](https://github.com/fastai/nbdev) that leverages Quarto. Prior to fast.ai, Hamel was a machine learning engineer at companies like Airbnb, GitHub, and DataRobot, and other related roles in management consulting. You can find more about Hamel on his [personal site](https://hamel.dev/). |
 
 : {tbl-colwidths="\[25,5,70\]"}

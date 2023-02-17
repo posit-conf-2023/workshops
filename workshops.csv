@@ -8,7 +8,7 @@ Michigan 3,2,1-day,Big Data with Arrow,arrow,Teaching a modern data science cour
 Randolph 2,3,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python
 Grand Hall K,4,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2
 Roosevelt 3 AB,5,1-day,Fundamentals of Package Development,pkgdev,Fundamentals of Package Development,pkgdev
-Grand Hall L,6,1-day,Getting Started with Shiny for Python,shiny-python,Enhancing Communication & Collaboration in Data Science with Quarto and Jupyter Notebooks,quarto-python
+Grand Hall L,6,1-day,Getting Started with Shiny for Python,shiny-python,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python
 Michigan 1 ABC,7,1-day,Getting Started with Shiny for R,shiny-r,Shiny Dashboards,shiny-dashboard
 Grand Hall MN,8,1-day,Introduction to Data Science with Python,intro-ds-python,Machine Learning and Deep Learning with Python,ml-python
 Grand Ballroom F,9,1-day,Introduction to Quarto with R + RStudio: Documents and presentations,quarto-r-docs,"Advanced Quarto with R + RStudio: Projects, websites, books, and more",quarto-r-projects
