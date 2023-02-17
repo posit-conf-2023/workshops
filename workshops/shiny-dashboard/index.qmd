@@ -31,6 +31,8 @@ Users who are new to Shiny will benefit from taking [Getting Started with Shiny 
 
 # Instructor
 
-[**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012.
-His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python.
-He has been teaching and using Shiny since 2015.
+|                       |     |                                                                                                                                                |
+|-----------------|-----------------|--------------------------------------|
+| ![](colin-rundel.png) |     | [**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012. His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python. He has been teaching and using Shiny since 2015. |
+
+: {tbl-colwidths="\[25,5,70\]"}

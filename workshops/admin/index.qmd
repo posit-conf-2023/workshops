@@ -17,7 +17,6 @@ tags:
 
 In this workshop, we will discuss ways to better deploy, scale, and containerize your Data products!  We'll use both R and shell scripting to virtualize Posit products in the cloud. You'll learn enough  Linux sysadmin, security, and authorization to be dangerous - or at least to understand your IT and DevSecOps teams. By the end of the workshop you will have the tools to start deploying your own data science assets into production. 
 
-
 # Audience
 
 This workshop is for you if you:
@@ -32,4 +31,8 @@ This workshop is for you if you:
 
 # Instructor
 
-**Rika Gorn** is a Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products as well as open source tooling. Before coming to Posit, Rika worked as a Data Science Manager at a mental health tech company. 
+|                          |     |                                                                                                                                                                                                                                                                                     |
+|--------------|--------------|--------------------------------------------|
+| ![](rika-gorn.jpeg) |     | **Rika Gorn** is a Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products as well as open source tooling. Before coming to Posit, Rika worked as a Data Science Manager at a mental health tech company. |
+
+: {tbl-colwidths="[25,5,70]"}

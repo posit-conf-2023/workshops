@@ -16,11 +16,16 @@ tags:
 
 # Description
 
-Sharing knowledge through writing is a critical aspect of scientific activity, including data science. It allows researchers to communicate their findings and insights to a wider audience, build upon existing work, and collaborate with others in their field. However, until recently, there have been limited options for publishing long-form writing and expository analyses authored in Jupyter Notebooks, a popular medium for data scientists.
+Sharing knowledge through writing is a critical aspect of scientific activity, including data science.
+It allows researchers to communicate their findings and insights to a wider audience, build upon existing work, and collaborate with others in their field.
+However, until recently, there have been limited options for publishing long-form writing and expository analyses authored in Jupyter Notebooks, a popular medium for data scientists.
 
-Enter Quarto - an innovative, open-source scientific and technical publishing system compatible with Jupyter Notebooks and other popular mediums. Quarto provides data scientists with a seamless way to publish their work in a high-quality format that is easily accessible and shareable. With Quarto, researchers can turn their Jupyter Notebooks into professional-looking publications in a variety of formats, including web pages, books, and slides.
+Enter Quarto - an innovative, open-source scientific and technical publishing system compatible with Jupyter Notebooks and other popular mediums.
+Quarto provides data scientists with a seamless way to publish their work in a high-quality format that is easily accessible and shareable.
+With Quarto, researchers can turn their Jupyter Notebooks into professional-looking publications in a variety of formats, including web pages, books, and slides.
 
-In this workshop, we will demonstrate how Quarto enables data scientists to turn their work products into professional, high-quality publications, websites, blog posts, and other shareable artifacts.  As a bonus, we will also discuss how you can create and document Python packages using Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
+In this workshop, we will demonstrate how Quarto enables data scientists to turn their work products into professional, high-quality publications, websites, blog posts, and other shareable artifacts.
+As a bonus, we will also discuss how you can create and document Python packages using Jupyter notebooks and Quarto with the help of [nbdev](https://nbdev.fast.ai/).
 
 The learning outcomes for the workshop include:
 
@@ -38,7 +43,7 @@ The learning outcomes for the workshop include:
 
 -   test notebooks and documentation with Quarto's execution options.
 
--   create and document Python packages with [nbdev](https://nbdev.fast.ai/) and Quarto. 
+-   create and document Python packages with [nbdev](https://nbdev.fast.ai/) and Quarto.
 
 # Audience
 
@@ -52,4 +57,8 @@ The workshop will assume some prior experience with Python and Jupyter Notebooks
 
 # Instructors
 
-This workshop will be taught by [Hamel Husain](https://hamel.dev).  Hamel is an entreprenuer-in-residence at [fast.ai](https://github.com/fastai), where he is building new software development tools like [nbdev](https://github.com/fastai/nbdev) that leverages Quarto.  Prior to fast.ai, Hamel was a machine learning engineer at companies like Airbnb, GitHub, and DataRobot, and other related roles in management consulting.  You can find more about Hamel on his [personal site](https://hamel.dev/).
+|                       |     |                                        |
+|-----------------------|-----|----------------------------------------|
+| ![](hamel-husain.jpg) |     | [**Hamel Husain**](https://hamel.dev). Hamel is an entreprenuer-in-residence at [fast.ai](https://github.com/fastai), where he is building new software development tools like [nbdev](https://github.com/fastai/nbdev) that leverages Quarto. Prior to fast.ai, Hamel was a machine learning engineer at companies like Airbnb, GitHub, and DataRobot, and other related roles in management consulting. You can find more about Hamel on his [personal site](https://hamel.dev/). |
+
+: {tbl-colwidths="\[25,5,70\]"}

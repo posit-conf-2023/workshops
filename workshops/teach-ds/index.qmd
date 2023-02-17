@@ -17,9 +17,13 @@ tags:
 
 # Description
 
-There has been significant innovation in introductory statistics and data science courses to equip students with the statistical, computing, and communication skills needed for modern data analysis. Success in data science and statistics is dependent on the development of both analytical and computational skills, and the demand for educators who are proficient at teaching both these skills is growing. The goal of this workshop is to equip educators with concrete information on content, workflows, and infrastructure for *painlessly* introducing modern computation with R and RStudio within a data science curriculum.
+There has been significant innovation in introductory statistics and data science courses to equip students with the statistical, computing, and communication skills needed for modern data analysis.
+Success in data science and statistics is dependent on the development of both analytical and computational skills, and the demand for educators who are proficient at teaching both these skills is growing.
+The goal of this workshop is to equip educators with concrete information on content, workflows, and infrastructure for *painlessly* introducing modern computation with R and RStudio within a data science curriculum.
 
-In this workshop, we'll present a modern approach to and workflows for teaching data science. We'll discuss teaching the tidyverse in 2023, highlighting updates to the R for Data Science book as well as the tidyverse in general that should be reflected in today's data science curricula as well as present tooling options and workflows for reproducible authoring, computing infrastructure, version control, and collaboration. In a nutshell, the day you'll spend in this workshop will save you hours and hours of solo work setting up your course.
+In this workshop, we'll present a modern approach to and workflows for teaching data science.
+We'll discuss teaching the tidyverse in 2023, highlighting updates to the R for Data Science book as well as the tidyverse in general that should be reflected in today's data science curricula as well as present tooling options and workflows for reproducible authoring, computing infrastructure, version control, and collaboration.
+In a nutshell, the day you'll spend in this workshop will save you hours and hours of solo work setting up your course.
 
 The workshop will be comprised of four modules:
 
@@ -28,13 +32,16 @@ The workshop will be comprised of four modules:
 -   Organizing, publishing, and sharing of course materials
 -   Computing infrastructure for teaching data science
 
-Throughout each module we'll shift between the student perspective and the instructor perspective. The activities and demos will be hands-on; attendees will also have the opportunity to exchange ideas and ask questions throughout the session.
+Throughout each module we'll shift between the student perspective and the instructor perspective.
+The activities and demos will be hands-on; attendees will also have the opportunity to exchange ideas and ask questions throughout the session.
 
-In addition to gaining technical knowledge, participants will engage in discussion around the decisions that go into developing a data science curriculum and choosing workflows and infrastructure that best support the curriculum and allow for scalability. We will also discuss best practices for configuring and deploying classroom infrastructures to support these tools.
+In addition to gaining technical knowledge, participants will engage in discussion around the decisions that go into developing a data science curriculum and choosing workflows and infrastructure that best support the curriculum and allow for scalability.
+We will also discuss best practices for configuring and deploying classroom infrastructures to support these tools.
 
 # Audience
 
-This workshop is aimed primarily at participants teaching data science in an academic setting in semester-long courses, however much of the information and tooling we introduce is applicable for shorter teaching experiences like workshops and bootcamps as well. Basic knowledge of R is assumed and familiarity with the tidyverse and Git is preferred.
+This workshop is aimed primarily at participants teaching data science in an academic setting in semester-long courses, however much of the information and tooling we introduce is applicable for shorter teaching experiences like workshops and bootcamps as well.
+Basic knowledge of R is assumed and familiarity with the tidyverse and Git is preferred.
 
 This course is for you if you:
 
@@ -44,6 +51,8 @@ This course is for you if you:
 
 # Instructor
 
-[Dr. Mine Çetinkaya-Rundel](http://mine-cr.com/) (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine's work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching Introductory Statistics.\
+|                      |     |                                                                                                                                                 |
+|-----------------|-----------------|--------------------------------------|
+| ![](mine-cetinkaya-rundel.jpg) |     | [**Dr. Mine Çetinkaya-Rundel**](http://mine-cr.com/) (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine's work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for For Excellence in Teaching Introductory Statistics. |
 
-\
+: {tbl-colwidths="\[25,5,70\]"}

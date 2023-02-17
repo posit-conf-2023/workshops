@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "posit::conf(2023) workshops"
+  title: "posit::conf(2023)"
   site-url: https://posit-conf-2023.github.io/website
   description: "posit::conf(2023) workshops"
 
@@ -14,8 +14,14 @@ website:
 
   navbar:
     background: "#447099"
+    right:
+      - icon: github
+        href: https://github.com/posit-conf-2023/workshops
     left:
-      - href: index.qmd
+      - text: Workshops
+        href: index.qmd
+      - text: Pathways
+        href: pathways.qmd
 
 format:
   html:

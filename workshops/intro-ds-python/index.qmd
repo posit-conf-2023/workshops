@@ -27,6 +27,10 @@ This course is ideal for:
 
 -   R users who want to work more closely with Python users on their team.
 
-# Instructor
+# Instructors
 
-Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-student collaboration.
+|                  |     |                                                                                                                                                                                                                                                                                                   |
+|----------------|----------------|----------------------------------------|
+| ![](academy.png) |     | Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-student collaboration. |
+
+: {tbl-colwidths="\[25,5,70\]"}

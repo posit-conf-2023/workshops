@@ -14,20 +14,22 @@ tags:
 
 # Description
 
-This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to (re)design their R lifestyle via project-oriented workflows and version control for data science (Git/GitHub). At the conclusion of the workshop you will have strategies for organizing data science projects and workflows, employing robust file paths, constructing human and machine readable file names, and facilitating collaboration with yourself or others via version control.
+This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to (re)design their R lifestyle via project-oriented workflows and version control for data science (Git/GitHub).
+At the conclusion of the workshop you will have strategies for organizing data science projects and workflows, employing robust file paths, constructing human and machine readable file names, and facilitating collaboration with yourself or others via version control.
 
 # Audience
 
 This course is for you if you answer yes to these questions:
 
-- Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
-- Do you want to put programming on pause and learn about actionable programming-adjacent workflows for streamlining analysis in R?
-- Are you willing to feel a bit of (git) pain to leverage the benefits of version control for collaboration and time travel?
-
+-   Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
+-   Do you want to put programming on pause and learn about actionable programming-adjacent workflows for streamlining analysis in R?
+-   Are you willing to feel a bit of (git) pain to leverage the benefits of version control for collaboration and time travel?
 
 # Instructors
 
-[**Shannon Pileggi**](https://www.pipinghotdata.com/) PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible.
+|                                                                                                                            |     |                                                                                                                                                                                                                          |
+|-----------------|-----------------|--------------------------------------|
+| ![](shannon-pileggi.jpg) |     | [**Shannon Pileggi**](https://www.pipinghotdata.com/) PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible. |   
+| ![](david-aja.jpg) |     | [**David Aja**](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector. |
 
-[**David Aja**](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.
-
+: {tbl-colwidths="\[25,5,70\]"}

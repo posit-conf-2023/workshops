@@ -1,23 +1,80 @@
 ---
-listing:
-  - contents:
-      - workshops/*/index.qmd
-    type: table
-    sort: 
-      - "length"
-      - "date"
-      - "title"
-    filter-ui: true
-    sort-ui: [title, author, day-one, day-two, languages, tags]
-    fields: [title, author, day-one, day-two, languages, tags]
-    field-display-names:
-      author: "Instructor"
-      day-one: "Day 1"
-      day-two: "Day 2"
-      languages: "Languages"
-      tags: "Tags"
-    table-hover: true
-    table-striped: true
-tbl-colwidths: [35,30,7,7,11,10]
+execute: 
+  echo: false
 page-layout: full
+editor_options: 
+  chunk_output_type: console
 ---
+
+```{r}
+#| message: false
+
+library(tidyverse)
+library(gt)
+library(glue)
+
+workshops <- read_csv("workshops.csv") |>
+  mutate(
+    day_1 = glue("[{day_1}](/workshops/{day_1_slug}/)"),
+    day_2 = glue("[{day_2}](/workshops/{day_2_slug}/)"),
+    day_2 = if_else(type == "2-day", "", day_2)
+  ) |>
+  select(-room, -contains("slug")) 
+```
+
+```{r}
+workshops |>
+  gt() |>
+  fmt_markdown() |>
+  tab_row_group(
+    label = md("**1-day workshops**"),
+    rows = type == "1-day"
+  ) |>
+  tab_row_group(
+    label = md("**2-day workshops**"),
+    rows = type == "2-day"
+  ) |>
+  cols_hide(type) |>
+  # cols_width not applied in Quarto page
+  cols_width(
+    no ~ pct(8),
+    day_1 ~ pct(46),
+    day_2 ~ pct(46)
+  ) |>
+  cols_align(
+    align = "left",
+    columns = c(day_1, day_2)
+  ) |>
+  # cell_borders not applied in Quarto page
+  tab_style(
+    style = cell_borders(
+      sides = c("right"),
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = day_1,
+      rows = type == "1-day"
+    )
+  ) |>
+  tab_style(
+    style = cell_borders(
+      sides = c("right"),
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = no,
+      rows =everything()
+    )
+  ) |>
+   tab_style(
+    style = list(
+      cell_fill(color = "lightgray")
+    ),
+    locations = cells_row_groups()
+  ) |>
+  cols_label(
+    day_1 = "Day 1",
+    day_2 = "Day 2",
+    no = ""
+  )
+```

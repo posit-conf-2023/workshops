@@ -1,0 +1,25 @@
+---
+title: "Potential patways for workshops"
+execute: 
+  echo: false
+editor_options: 
+  chunk_output_type: console
+---
+
+::: callout-warning
+This page is experimental for now.
+:::
+
+```{mermaid}
+flowchart LR
+  A{New to Shiny\nInterested in R} --> B(Getting Started with Shiny for R)
+  B --> C(Shiny Dashboards)
+  B --> D(Shiny in production:\nTools and Techniques)
+```
+
+```{mermaid}
+flowchart LR
+  A{Love Shiny and Quarto in R,\ninterested in learning\nabout the Python side} --> B(Getting Started with Shiny for Python)
+  B --> C(Enhancing Communication &\nCollaboration in Data Science\n with Quarto and Jupyter Notebooks)
+  B --> D(Data Science Workflows\nwith Posit Tools - Python Focus)
+```
