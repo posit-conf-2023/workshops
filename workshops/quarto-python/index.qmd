@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Communication & Collaboration in Data Science with Quarto and Jupyter Notebooks"
+title: "Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto"
 author: "Hamel Husain"
 date: "2023-09-18"
 length: "B-1-day"
