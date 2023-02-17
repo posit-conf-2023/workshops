@@ -21,7 +21,7 @@ website:
       - text: Workshops
         href: index.qmd
       - text: Pathways
-        href: patways.qmd
+        href: pathways.qmd
 
 format:
   html:
