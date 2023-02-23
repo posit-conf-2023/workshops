@@ -4,16 +4,16 @@ Grand Hall GH,2,2-day,Causal inference with R,causal-inference,Malcolm Barrett &
 Randolph 1 AB,3,2-day,Introduction to Data Science with R,intro-ds-r,Posit Academy,,,
 Grand Hall I,4,2-day,Tidy time series and forecasting in R,forecasting,Rob Hyndman,,,
 Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Max Kuhn,Advanced tidymodels,tidymodels-advanced,Max Kuhn
-Michigan 3,2,1-day,Big Data with Arrow,arrow,Nic Crane & Steph Hazlitt,Teaching a modern data science course,teach-ds,Mine Cetinkaya-Rundel
-Randolph 2,3,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Ryan Johnson & Katie Masiello,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python,Gagan Singh & Sam Edwardes
-Grand Hall K,4,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Cedric Scherer,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2,Cedric Scherer
-Roosevelt 3 AB,5,1-day,Fundamentals of Package Development,pkgdev,Andy Teucher,Fundamentals of Package Development,pkgdev,Andy Teucher
+Grand Ballroom B,10,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and maintain models with vetiver,modeling-deploy,Julia Silge
 Grand Hall L,6,1-day,Getting Started with Shiny for Python,shiny-python,Matt Dancho,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python,Hamel Husain
 Michigan 1 ABC,7,1-day,Getting Started with Shiny for R,shiny-r,Colin Rundel,Shiny Dashboards,shiny-dashboard,Colin Rundel
-Grand Hall MN,8,1-day,Introduction to Data Science with Python,intro-ds-python,Posit Academy,Machine Learning and Deep Learning with Python,ml-python,Sebastian Raschka
-Grand Ballroom F,9,1-day,Introduction to Quarto with R & RStudio,quarto-r-docs,Andrew Bray,Advanced Quarto with R & RStudio,quarto-r-projects,Andrew Bray
-Grand Ballroom B,10,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and maintain models with vetiver,modeling-deploy,Julia Silge
-Randolph 3,11,1-day,It's not just code: managing an open source project,manage-os,Tracy Teal,Steal like an Rtist: Creative Coding in R,gen-art,Ijeamaka Anyene & Sharla Gelfand
-Roosevelt 1 AB,12,1-day,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham
 Grand Ballroom E,13,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz
+Grand Ballroom F,9,1-day,Introduction to Quarto with R & RStudio,quarto-r-docs,Andrew Bray,Advanced Quarto with R & RStudio,quarto-r-projects,Andrew Bray
+Grand Hall MN,8,1-day,Introduction to Data Science with Python,intro-ds-python,Posit Academy,Machine Learning and Deep Learning with Python,ml-python,Sebastian Raschka
+Roosevelt 1 AB,12,1-day,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham
+Roosevelt 3 AB,5,1-day,Fundamentals of Package Development,pkgdev,Andy Teucher,Fundamentals of Package Development,pkgdev,Andy Teucher
 Grand Hall J,14,1-day,What they forgot to teach you about R,wtf,Shannion Pileggi & David Aja,From R User to R Programmer,programming-r,Emma Rand & Ian Lyttle
+Michigan 3,2,1-day,Big Data with Arrow,arrow,Nic Crane & Steph Hazlitt,Teaching a modern data science course,teach-ds,Mine Cetinkaya-Rundel
+Grand Hall K,4,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Cedric Scherer,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2,Cedric Scherer
+Randolph 3,11,1-day,It's not just code: managing an open source project,manage-os,Tracy Teal,Steal like an Rtist: Creative Coding in R,gen-art,Ijeamaka Anyene & Sharla Gelfand
+Randolph 2,3,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Ryan Johnson & Katie Masiello,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python,Gagan Singh & Sam Edwardes
