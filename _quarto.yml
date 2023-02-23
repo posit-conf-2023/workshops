@@ -13,7 +13,7 @@ website:
   open-graph: true
 
   navbar:
-    background: "#447099"
+    background: "#589398"
     right:
       - icon: github
         href: https://github.com/posit-conf-2023/workshops
@@ -28,6 +28,6 @@ format:
     author-title: "Instructor"
     description-title: "Length"
     theme: style.scss
-    linkcolor: "#447099"
+    linkcolor: "#589398"
 
 editor: visual
