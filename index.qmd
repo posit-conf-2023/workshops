@@ -13,39 +13,32 @@ library(tidyverse)
 library(gt)
 library(glue)
 
-workshops <- read_csv("workshops.csv") |>
+workshops <- 
+  read_csv("workshops.csv") |>
   mutate(
     day_1 = glue("[{day_1}](/workshops/{day_1_slug}/)"),
     day_2 = glue("[{day_2}](/workshops/{day_2_slug}/)"),
-    day_2 = if_else(type == "2-day", "", day_2)
+    day_2 = if_else(type == "2-day", "", day_2),
+    type = paste0("**", type, " workshops**")
   ) |>
   select(-room, -contains("slug")) 
 ```
 
 ```{r}
+#| results: asis
+
 workshops |>
-  gt() |>
-  fmt_markdown() |>
-  tab_row_group(
-    label = md("**1-day workshops**"),
-    rows = type == "1-day"
-  ) |>
-  tab_row_group(
-    label = md("**2-day workshops**"),
-    rows = type == "2-day"
-  ) |>
-  cols_hide(type) |>
-  # cols_width not applied in Quarto page
+  gt(groupname_col = "type", process_md = TRUE) |>
+  fmt_url(columns = starts_with("day")) |>
   cols_width(
     no ~ pct(8),
     day_1 ~ pct(46),
-    day_2 ~ pct(46)
+    day_2 ~ pct(46) 
   ) |>
   cols_align(
     align = "left",
     columns = c(day_1, day_2)
   ) |>
-  # cell_borders not applied in Quarto page
   tab_style(
     style = cell_borders(
       sides = c("right"),
@@ -53,7 +46,7 @@ workshops |>
     ),
     locations = cells_body(
       columns = day_1,
-      rows = type == "1-day"
+      rows = c(5:18)
     )
   ) |>
   tab_style(
@@ -63,10 +56,10 @@ workshops |>
     ),
     locations = cells_body(
       columns = no,
-      rows =everything()
+      rows = everything()
     )
   ) |>
-   tab_style(
+  tab_style(
     style = list(
       cell_fill(color = "lightgray")
     ),
@@ -76,5 +69,6 @@ workshops |>
     day_1 = "Day 1",
     day_2 = "Day 2",
     no = ""
-  )
+  ) |>
+  tab_options(quarto.disable_processing = TRUE)
 ```
