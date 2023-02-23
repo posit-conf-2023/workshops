@@ -13,12 +13,12 @@ library(tidyverse)
 library(gt)
 library(glue)
 
-workshops <- 
-  read_csv("workshops.csv") |>
+workshops <- read_csv("workshops.csv") |>
   mutate(
     day_1 = glue("[{day_1}](/workshops/{day_1_slug}/)"),
     day_2 = glue("[{day_2}](/workshops/{day_2_slug}/)"),
     day_2 = if_else(type == "2-day", "", day_2),
+    day_2_instructor = if_else(type == "2-day", "", day_2_instructor),
     type = paste0("**", type, " workshops**")
   ) |>
   select(-room, -contains("slug")) 
@@ -29,7 +29,7 @@ workshops <-
 
 workshops |>
   gt(groupname_col = "type", process_md = TRUE) |>
-  fmt_url(columns = starts_with("day")) |>
+  fmt_url(columns = c(day_1, day_2)) |>
   cols_width(
     no ~ pct(8),
     day_1 ~ pct(46),
@@ -55,9 +55,17 @@ workshops |>
       style = "solid"
     ),
     locations = cells_body(
-      columns = no,
+      columns = c(no, day_2),
       rows = everything()
     )
+  ) |>
+  cols_merge(
+    columns = c(day_1, day_1_instructor),
+    pattern = "{1}<br>&nbsp;&nbsp;{2}"
+  ) |>
+  cols_merge(
+    columns = c(day_2, day_2_instructor),
+    pattern = "{1}<br>&nbsp;&nbsp;{2}"
   ) |>
   tab_style(
     style = list(
