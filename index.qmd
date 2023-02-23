@@ -24,6 +24,9 @@ workshops <- read_csv("workshops.csv") |>
   select(-room, -contains("slug")) 
 ```
 
+Choose one of the 2-day workshops or a 1-day workshop for each day.
+Go to `[ADD URL]` to register!
+
 ```{r}
 #| results: asis
 
@@ -74,8 +77,8 @@ workshops |>
     locations = cells_row_groups()
   ) |>
   cols_label(
-    day_1 = "Day 1",
-    day_2 = "Day 2",
+    day_1 = "Day 1 - Sep 17",
+    day_2 = "Day 2 - Sep 18",
     no = ""
   ) |>
   tab_options(quarto.disable_processing = TRUE)
