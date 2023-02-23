@@ -20,8 +20,6 @@ website:
     left:
       - text: Workshops
         href: index.qmd
-      - text: Pathways
-        href: pathways.qmd
 
 format:
   html:
