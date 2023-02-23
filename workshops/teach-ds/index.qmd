@@ -20,9 +20,9 @@ tags:
 There has been significant innovation in introductory statistics and data science courses to equip students with the statistical, computing, and communication skills needed for modern data analysis.
 Success in data science and statistics is dependent on the development of both analytical and computational skills, and the demand for educators who are proficient at teaching both these skills is growing.
 The goal of this masterclass is to equip educators with concrete information on content, workflows, and infrastructure for *painlessly* introducing modern computation with R and RStudio within a data science curriculum.
+In a nutshell, the day you'll spend in this workshop will save you endless hours of solo work designing and setting up your course.
 
 Topics will cover teaching the tidyverse in 2023, highlighting updates to *R for Data Science (2nd ed)* and *Data Science in a Box* as well as present tooling options and workflows for reproducible authoring, computing infrastructure, version control, and collaboration.
-In a nutshell, the day you'll spend in this workshop will save you hours and hours of solo work designing and setting up your course.
 
 The workshop will be comprised of four modules:
 
