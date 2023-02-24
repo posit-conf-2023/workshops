@@ -24,7 +24,7 @@ This course is for you if you:
 -   Build finished data products starting from raw data and are looking to improve your workflow
 -   Are looking to expand your knowledge of Posit open source and professional tools
 -   Want to improve interoperability between data products in your work or on your team
--   Have experience developing in Python. A analogous course with an R focus is also offered
+-   Have experience developing in Python. An analogous course with an R focus is also offered
 
 # Instructors
 
