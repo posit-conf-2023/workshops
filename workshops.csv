@@ -4,7 +4,7 @@ Grand Hall GH,2,2-day,Causal inference with R,causal-inference,Malcolm Barrett &
 Randolph 1 AB,3,2-day,Introduction to Data Science with R,intro-ds-r,Posit Academy,,,
 Grand Hall I,4,2-day,Tidy time series and forecasting in R,forecasting,Rob Hyndman,,,
 Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Max Kuhn,Advanced tidymodels,tidymodels-advanced,Max Kuhn
-Grand Ballroom B,2,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and maintain models with vetiver,modeling-deploy,Julia Silge
+Grand Ballroom B,2,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and Maintain Models with vetiver,modeling-deploy,Julia Silge
 Grand Hall L,3,1-day,Getting Started with Shiny for Python,shiny-python,Matt Dancho,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python,Hamel Husain
 Michigan 1 ABC,4,1-day,Getting Started with Shiny for R,shiny-r,Colin Rundel,Shiny Dashboards,shiny-dashboard,Colin Rundel
 Grand Ballroom E,5,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz
