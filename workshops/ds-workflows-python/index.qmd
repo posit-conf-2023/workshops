@@ -1,6 +1,6 @@
 ---
 title: "Data Science Workflows with Posit Tools — Python Focus"
-author: "Gagan Singh + Sam Edwardes"
+author: "Gagandeep Singh & Sam Edwardes"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"

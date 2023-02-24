@@ -1,6 +1,6 @@
 ---
 title: "Data Science Workflows with Posit Tools — R Focus"
-author: "Ryan Johnson + Katie Masiello"
+author: "Ryan Johnson & Katie Masiello"
 date: "2023-09-17"
 length: "B-1-day"
 description: "1-day workshop"

@@ -1,6 +1,6 @@
 ---
 title: "WTF: Project oriented workflows with Git and GitHub"
-author: "Shannon Pileggi + David Aja"
+author: "Shannon Pileggi & David Aja"
 date: "2023-09-17"
 length: "B-1-day"
 description: "1-day workshop"
@@ -9,7 +9,9 @@ day-two: " "
 languages:
   - R
 tags:
-  - version control, projects, workflows
+  - version control
+  - projects
+  - workflows
 ---
 
 # Description
