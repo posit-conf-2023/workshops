@@ -29,5 +29,6 @@ format:
     description-title: "Length"
     theme: style.scss
     linkcolor: "#589398"
+    toc: true
 
 editor: visual
