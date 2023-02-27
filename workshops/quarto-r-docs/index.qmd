@@ -28,7 +28,7 @@ This course is for you if you:
 
 -   have a basic knowledge of how to use the RStudio IDE,
 
--   have experience with R Markdown, or
+-   have some experience with R Markdown, or
 
 -   are excited to author a range of reproducible computational documents types, from static files to slides.
 
