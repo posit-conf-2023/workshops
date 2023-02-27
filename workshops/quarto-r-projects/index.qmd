@@ -27,7 +27,7 @@ This course is for you if you:
 
 -   have a basic knowledge of how to use the RStudio IDE.
 
--   have experience working with Rmd and/or Qmd files.
+-   have experience working with single R Markdown and/or Quarto files.
 
 -   are excited to author multi-document projects like books, websites, and blogs.
 
