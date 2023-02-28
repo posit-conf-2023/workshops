@@ -27,7 +27,9 @@ This course is for you if you:
 
 -   have a basic knowledge of how to use the RStudio IDE.
 
--   are excited to author a range of reproducible computational documents types, from static files to slides to websites.
+-   have experience working with single R Markdown and/or Quarto files.
+
+-   are excited to author multi-document projects like books, websites, and blogs.
 
 Participants who are new to computational documents will benefit from taking [Intro to Quarto with R and RStudio: Documents and Presentations](/quarto-r-docs) before joining this workshop.
 

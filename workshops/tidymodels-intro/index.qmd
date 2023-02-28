@@ -1,6 +1,6 @@
 ---
 title: "Introduction to tidymodels"
-author: "Hannah Frick + Simon Couch + Emil Hvitfeldt"
+author: "Hannah Frick & Simon Couch & Emil Hvitfeldt"
 date: "2023-09-17"
 length: "B-1-day"
 description: "1-day workshop"

@@ -1,6 +1,6 @@
 ---
 title: "Steal like an Rtist: Creative Coding in R"
-author: "Ijeamaka Anyene Fumagalli + Sharla Gelfand"
+author: "Ijeamaka Anyene Fumagalli & Sharla Gelfand"
 date: "2023-09-18"
 length: "B-1-day"
 description: "1-day workshop"

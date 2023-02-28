@@ -1,6 +1,6 @@
 ---
 title: "Data Science Workflows with Posit Tools — R Focus"
-author: "Ryan Johnson + Katie Masiello"
+author: "Ryan Johnson & Katie Masiello"
 date: "2023-09-17"
 length: "B-1-day"
 description: "1-day workshop"
@@ -24,7 +24,7 @@ This course is for you if you:
 -   Build finished data products starting from raw data and are looking to improve your workflow
 -   Are looking to expand your knowledge of Posit open source and professional tools
 -   Want to improve interoperability between data products in your work or on your team
--   Have experience developing in R. A analogous course with a Python focus is also offered
+-   Have experience developing in R. An analogous course with a Python focus is also offered
 
 # Instructors
 

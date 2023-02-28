@@ -1,6 +1,6 @@
 ---
 title: "Causal Inference with R"
-author: "Malcolm Barrett + Travis Gerke"
+author: "Malcolm Barrett & Travis Gerke"
 date: "2023-09-17"
 length: "A-2-day"
 description: "2-day workshop"
