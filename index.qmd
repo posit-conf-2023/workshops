@@ -25,7 +25,7 @@ workshops <- read_csv("workshops.csv") |>
 ```
 
 Choose one of the 2-day workshops or a 1-day workshop for each day.
-Go to `[ADD URL]` to register!
+Go to <https://posit.co/conference> to register!
 
 ```{r}
 #| results: asis
