@@ -1,5 +1,6 @@
 ---
-title: "WTF: Project oriented workflows with Git and GitHub"
+title: "What They Forgot to Teach You About R"
+subtitle: "Project oriented workflows with Git and GitHub"
 author: "Shannon Pileggi & David Aja"
 date: "2023-09-17"
 length: "B-1-day"
@@ -29,9 +30,10 @@ This course is for you if you answer yes to these questions:
 
 # Instructors
 
-|                                                                                                                            |     |                                                                                                                                                                                                                          |
-|-----------------|-----------------|--------------------------------------|
-| ![](shannon-pileggi.jpg) |     | [**Shannon Pileggi**](https://www.pipinghotdata.com/) PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible. |   
-| ![](david-aja.jpg) |     | [**David Aja**](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector. |
+|                          |     |                                                                                                                                                                                                                                                                                                                                                     |
+|------------------|------------------|-------------------------------------|
+| ![](shannon-pileggi.jpg) |     | [**Shannon Pileggi**](https://www.pipinghotdata.com/) PhD (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible. |
+| ![](david-aja.jpg)       |     | [**David Aja**](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.                                                                                                                                                                                                 |
 
 : {tbl-colwidths="\[25,5,70\]"}
+
