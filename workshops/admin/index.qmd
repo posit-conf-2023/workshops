@@ -15,27 +15,22 @@ tags:
 
 # Description
 
-In this workshop, we will discuss ways to better deploy, scale, and containerize your Data products!
-We'll use both R and shell scripting to virtualize Posit products in the cloud.
-You'll learn enough Linux sysadmin, security, and authorization to be dangerous - or at least to understand your IT and DevSecOps teams.
-By the end of the workshop you will have the tools to start deploying your own data science assets into production.
+In this workshop, we will discuss ways to better containerize, deploy, and scale your data products. We'll use both R and shell scripting to virtualize Posit products in the cloud. You'll learn about servers, networking, security, and authorization to be dangerous -- or at least to understand your DevSecOps teams. By the end of the workshop you will have the tools to start deploying your own data science assets into production.
 
 # Audience
 
 This workshop is for you if you:
 
--   Are a Data Scientist or Analyst who wants to put their work into production
+-   are a data scientist or analyst who wants to put their work into production,
 
--   want to learn a little more about Docker containers and virtual machines
+-   want to learn a more about Docker containers and virtual machines, or
 
--   want to better understand how DevOps, IT, or security can be leveraged to support the work of Data Scientists
-
--   are responsible for the administration of Posit Workbench, Posit Connect, or Posit Package Manager at your organization
+-   want to better understand importance of networking, security, storage, and different server architectures to deploying data apps.
 
 # Instructor
 
 |                     |     |                                                                                                                                                                                                                                                        |
-|---------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|------------------------------------------------------|
 | ![](rika-gorn.jpeg) |     | **Rika Gorn** is a Solutions Engineer at Posit, where she helps organizations deploy, configure, and use Posit Products as well as open source tooling. Before coming to Posit, Rika worked as a Data Science Manager at a mental health tech company. |
 
 : {tbl-colwidths="\[25,5,70\]"}
