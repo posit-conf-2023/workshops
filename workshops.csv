@@ -7,7 +7,7 @@ Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Max Kuhn,Advanc
 Grand Ballroom B,2,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and Maintain Models with vetiver,modeling-deploy,Julia Silge
 Grand Hall L,3,1-day,Getting Started with Shiny for Python,shiny-python,Matt Dancho,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python,Hamel Husain
 Michigan 1 ABC,4,1-day,Getting Started with Shiny for R,shiny-r,Colin Rundel,Shiny Dashboards,shiny-dashboard,Colin Rundel
-Grand Ballroom E,5,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz
+Grand Ballroom E,5,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz & Mike Thomas
 Grand Ballroom F,6,1-day,Introduction to Quarto with R & RStudio,quarto-r-docs,Andrew Bray,Advanced Quarto with R & RStudio,quarto-r-projects,Andrew Bray
 Grand Hall MN,7,1-day,Introduction to Data Science with Python,intro-ds-python,Posit Academy,Machine Learning and Deep Learning with Python,ml-python,Sebastian Raschka
 Roosevelt 1 AB,8,1-day,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham
