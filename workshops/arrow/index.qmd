@@ -35,8 +35,8 @@ This course is for you if you:
 # Instructors
 
 |                        |     |                                                                                                                                                                                                                                                                 |
-|------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](steph-hazlitt.jpg) |     | **Nic Crane** is a software engineer with a background in data science, and has a lot of enthusiasm for open source and learning and teaching all things R. Nic is part of the core team who maintain the Arrow R package.                                      |
-| ![](nic-crane.png)     |     | **Steph Hazlitt** is a data scientist, researcher and R enthusiast. She has spent the better part of her career wrangling data with R and supporting people and teams in learning, creating and sharing data science-related products and open source software. |
+|---------|---------|------------------------------------------------------|
+| ![](nic-crane.png)     |     | **Nic Crane** is a software engineer with a background in data science, and has a lot of enthusiasm for open source and learning and teaching all things R. Nic is part of the core team who maintain the Arrow R package.                                      |
+| ![](steph-hazlitt.jpg) |     | **Steph Hazlitt** is a data scientist, researcher and R enthusiast. She has spent the better part of her career wrangling data with R and supporting people and teams in learning, creating and sharing data science-related products and open source software. |
 
 : {tbl-colwidths="\[25,5,70\]"}
