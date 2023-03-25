@@ -28,7 +28,7 @@ This course is for you if you:
 
 -   have a basic knowledge of how to use the RStudio IDE,
 
--   some familiarity with markdown, or
+-   have some familiarity with markdown, or
 
 -   are excited to author flexible single documents like technical reports and slide presentations.
 
