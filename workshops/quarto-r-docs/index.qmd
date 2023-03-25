@@ -28,9 +28,9 @@ This course is for you if you:
 
 -   have a basic knowledge of how to use the RStudio IDE,
 
--   have some experience with R Markdown, or
+-   some familiarity with markdown, or
 
--   are excited to author a range of reproducible computational documents types, from static files to slides.
+-   are excited to author flexible single documents like technical reports and slide presentations.
 
 Seasoned users of R Markdown will get more out of the [Advanced Quarto with R and RStudio: Projects, Websites, Books, and More](/quarto-r-projects) workshop, which is focused on projects, a distinct strength of Quarto in authoring work that spans multiple documents.
 
