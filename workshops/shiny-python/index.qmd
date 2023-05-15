@@ -14,40 +14,56 @@ tags:
 
 # Description
 
-Shiny for Python is a new technology for automating business analysis and data science for organizations that use Python and want to get applications into production in days (not months or years).
-In this one-day workshop, you will learn how to progressively build a Shiny for Python application using a "4-Step Shiny for Python Build Framework" on a real business case study that benefits both organizations and individuals.
-Students first discover how to integrate a financial API using yfinance, a popular python library for retrieving company financial data, into a Shiny for Python web application.
-Students then learn how to apply the "4-Step Shiny for Python Build Framework" to automate the complete financial analysis for any of the 507 stocks listed on the S&P 500 index.
-Students leave with the code, knowledge, and a complete framework for building Shiny applications in Python.
+Shiny for Python is a new framework for building performant, beautiful web applications in Python. 
+In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick simple applications and elaborate mission-critical ones. 
+
+In particular this workshop will cover:
+
+- The basics of building a Shiny for Python app
+- When to use reactive calculations and reactive effects
+- How modules can help you develop reusable components
+- Theming and deploying your application 
+
+At the end of this course you will be able to:
+
+- Build a Shiny app in Python
+- Articulate how Shiny differs from other frameworks
+- Utilize best practices to make sure your app is robust and scalable
 
 ## FAQ
 
 1.  What if I'm a complete beginner?
 
-It's beneficial to have used R or Python before.
-With that said, all concepts will be explained thoroughly. 
+You should have a basic understanding of Python and be able to install packages with pip, do basic data manipulation, and draw plots. 
 
 2.  What if I've never built a Shiny app before?
 
-That's perfect.
-I'll show you how with my 4-step framework. 
+This workshops doesn't require any Shiny or web application experience.
+We will start from scratch to build simple applications before moving on to more complex ones.
 
-3.  Do I need experience working with financial data?
+3. Why Should I learn Shiny if I already know Streamlit or Dash
 
-No prior financial experience is required.
+We believe that Shiny is the best framework for building data applications in Python. 
+It's reactive execution model means that you can build performant applications without explicitly caching data or managing application state.
+For more on why we think that Shiny is worth learning see this [blog post](https://posit.co/blog/why-shiny-for-python/)
+
+4. I'm an expert with Shiny for R, is this workshop for me?
+The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familliar to you. 
+That said it's a great opportunity to fill in missing pieces and ask question about Python best practices. 
+Check out our [quickstart guide](https://shiny.rstudio.com/py/docs/r-quickstart.html) for R users and [this tutorial](https://www.youtube.com/watch?v=pXidQWYY14w) if you want to quickly get up to speed with Shiny for Python.
 
 # Audience
 
-This course is for you if you:
+This course is for you if you are:
 
--   are an R programmer interested in transitioning your skills from R to Python,
--   are a Python programmer interested in automating business analysis with Shiny for Python, and
--   are interested in financial analysis with Shiny and Python.
+-   An R programmer interested in building Shiny apps in Python
+-   A Python programmer interested in quickly building efficient web applications
+-   An educator interested in integration Shiny apps into your python course
 
-# Instructor
+# Instructors
 
-|                      |     |                                                                                                                                                   |
-|------------------|------------------|-------------------------------------|
-| ![](matt-dancho.jpg) |     | **Matt Dancho** is the founder of Business Science, an educational platform that teaches students how to apply data science to business problems. He is the author of several popular R packages including tidyquant, modeltime, and timetk. Prior to leading Business Science, Matt has consulted for Fortune 500 companies including S&P Global, Ingredion, and MRM McCann, and has 15+ years of industry experience in marketing & sales analytics, demand forecasting, and finance. |
+Joe Cheng is the CTO of Posit and creator of Shiny.
+
+Gordon Shotwell is a Software Engineer on the Shiny team. 
 
 : {tbl-colwidths="\[25,5,70\]"}
