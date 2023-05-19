@@ -15,7 +15,17 @@ tags:
 
 # Description
 
-In this workshop, we will discuss ways to better containerize, deploy, and scale your data products. We'll use both R and shell scripting to virtualize Posit products in the cloud. You'll learn about servers, networking, security, and authorization to be dangerous -- or at least to understand your DevSecOps teams. By the end of the workshop you will have the tools to start deploying your own data science assets into production.
+In this workshop, we will discuss ways to better containerize, deploy, and scale your data products.
+Participants will get hands-on practice deploying:
+
+-   A quarto site using Github Actions
+
+-   An API via a Docker container
+
+-   A Linux server running Posit products
+
+You'll learn enough about servers, networking, security, and authorization to be dangerous -- or at least enough to communicate with your DevOps teams.
+By the end of the workshop you will have the tools to start deploying your own data science assets into production.
 
 # Audience
 
