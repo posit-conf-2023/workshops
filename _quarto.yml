@@ -4,6 +4,7 @@ project:
 
 website:
   title: "posit::conf(2023)"
+  favicon: images/PositConf2023-EventLogo_github-teal.png
   site-url: https://posit-conf-2023.github.io/website
   description: "posit::conf(2023) workshops"
 
