@@ -15,7 +15,7 @@ tags:
 # Description
 
 Shiny for Python is a new framework for building performant, beautiful web applications in Python.
-In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick simple applications and elaborate mission-critical ones.
+In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick, simple applications and elaborate mission-critical ones.
 
 In particular this workshop will cover:
 
@@ -41,13 +41,17 @@ You should have a basic understanding of Python and be able to install packages 
 This workshops doesn't require any Shiny or web application experience.
 We will start from scratch to build simple applications before moving on to more complex ones.
 
-3.  Why Should I learn Shiny if I already know Streamlit or Dash
+3.  Why should I learn Shiny if I already know Streamlit or Dash?
 
 We believe that Shiny is the best framework for building data applications in Python.
 It's reactive execution model means that you can build performant applications without explicitly caching data or managing application state.
-For more on why we think that Shiny is worth learning see this [blog post](https://posit.co/blog/why-shiny-for-python/)
+See this [blog post](https://posit.co/blog/why-shiny-for-python/) for more on why we think that Shiny is worth learning.
 
-4.  I'm an expert with Shiny for R, is this workshop for me? The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familliar to you. That said it's a great opportunity to fill in missing pieces and ask question about Python best practices. Check out our [quickstart guide](https://shiny.rstudio.com/py/docs/r-quickstart.html) for R users and [this tutorial](https://www.youtube.com/watch?v=pXidQWYY14w) if you want to quickly get up to speed with Shiny for Python.
+4.  I'm an expert with Shiny for R, is this workshop for me?
+
+The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familiar to you.
+That said it's a great opportunity to fill in missing pieces and ask question about Python best practices.
+Check out our [quickstart guide](https://shiny.rstudio.com/py/docs/r-quickstart.html) for R users and [this tutorial](https://www.youtube.com/watch?v=pXidQWYY14w) if you want to quickly get up to speed with Shiny for Python.
 
 # Audience
 
@@ -60,7 +64,7 @@ This course is for you if you are:
 # Instructors
 
 |                           |     |                                                               |
-|------------------|------------------|-------------------------------------|
+|------------------|------------------|-----------------------------------|
 | ![](joe-cheng.jpg)        |     | **Joe Cheng** is the CTO of Posit and creator of Shiny.       |
 | ![](gordon-shotwell.jpeg) |     | **Gordon Shotwell** is a Software Engineer on the Shiny team. |
 
