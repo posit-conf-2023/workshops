@@ -23,11 +23,10 @@ You'll learn tidymodels syntax as well as the process of predictive modeling for
 
 This workshop is for you if you:
 
--   have intermediate R knowledge, experience with tidyverse packages, and either of the R pipes,
--   can read data into R, transform and reshape data, and make a wide variety of graphs, and
--   have had some exposure to basic statistical concepts such as linear models, random forests, etc.
+-   are comfortable using tidyverse packages to read data into R, transform and reshape data, and make a variety of graphs, and
+-   have had some exposure to basic statistical concepts such as linear models, residuals, etc.
 
-Intermediate or expert familiarity with modeling or machine learning is not required.
+Intermediate or expert familiarity with modeling or machine learning is not required. Interested students who have intermediate or expert familiarity with modeling or machine learning may be interested in the [Advanced tidymodels](/tidymodels-advanced/) workshop.
 
 # Instructors
 
