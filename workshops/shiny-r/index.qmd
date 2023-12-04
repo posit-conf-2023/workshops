@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Shiny for R"
-author: "Colin Rundel"
+author: "Garrick Aden-Buie & Colin Rundel"
 date: "2023-09-17"
 length: "B-1-day"
 description: "1-day workshop"
@@ -32,8 +32,9 @@ If you don't, we'll get you started on the right footing.
 
 # Instructor
 
-|                       |     |                                                                                                                                                |
-|-----------------|-----------------|--------------------------------------|
-| ![](colin-rundel.png) |     | [**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012. His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python. He has been teaching and using Shiny since 2015. |
+|                            |     |                                                                                                                                                                                                                                                                                                                               |
+|------------------|------------------|-------------------------------------|
+| ![](colin-rundel.png)      |     | [**Colin Rundel**](https://rundel.github.io/) is Associate Professor of the Practice at Duke University where he has been teaching since 2012. His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python. He has been teaching and using Shiny since 2015.          |
+| ![](garrick-aden-buie.jpg) |     | [**Garrick Aden-Buie**](https://www.garrickadenbuie.com/) is a Software Engineer for [Shiny](https://shiny.rstudio.com/) at [Posit](https://posit.co/). He builds tools in [R](https://r-project.org/), [R Markdown](https://rmarkdown.rstudio.com/), [Shiny](https://shiny.rstudio.com/) to help you do data science with R. |
 
 : {tbl-colwidths="\[25,5,70\]"}

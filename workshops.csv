@@ -1,19 +1,19 @@
-room,no,type,day_1,day_1_slug,day_1_instructor,day_2,day_2_slug,day_2_instructor
-Michigan 2,1,2-day,DevOps for Data Scientists,admin,Rika Gorn,,,
-Grand Hall GH,2,2-day,Causal Inference with R,causal-inference,Malcolm Barrett & Travis Gerke,,,
-Randolph 1 AB,3,2-day,Introduction to Data Science with R,intro-ds-r,Posit Academy,,,
-Grand Hall I,4,2-day,Tidy Time Series and Forecasting in R,forecasting,Rob Hyndman,,,
-Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Max Kuhn,Advanced tidymodels,tidymodels-advanced,Max Kuhn
-Grand Ballroom B,2,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,Deploy and Maintain Models with vetiver,modeling-deploy,Julia Silge
-Grand Hall L,3,1-day,Getting Started with Shiny for Python,shiny-python,Joe Cheng & Gordon Shotwell,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python,Hamel Husain
-Michigan 1 ABC,4,1-day,Getting Started with Shiny for R,shiny-r,Colin Rundel,Shiny Dashboards,shiny-dashboard,Colin Rundel
-Grand Ballroom E,5,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz & Mike Thomas
-Grand Ballroom F,6,1-day,Introduction to Quarto with R & RStudio,quarto-r-docs,Andrew Bray,Advanced Quarto with R & RStudio,quarto-r-projects,Andrew Bray
-Grand Hall MN,7,1-day,Introduction to Data Science with Python,intro-ds-python,Posit Academy,Machine Learning and Deep Learning with Python,ml-python,Sebastian Raschka
-Roosevelt 1 AB,8,1-day,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham
-Roosevelt 3 AB,9,1-day,Fundamentals of Package Development,pkgdev,Andy Teucher,Fundamentals of Package Development,pkgdev,Andy Teucher
-Grand Hall J,10,1-day,What They Forgot to Teach You About R,wtf,Shannion Pileggi & David Aja,From R User to R Programmer,programming-r,Emma Rand & Ian Lyttle
-Michigan 3,11,1-day,Big Data with Arrow,arrow,Nic Crane & Steph Hazlitt,Teaching Data Science Masterclass,teach-ds,Mine Cetinkaya-Rundel
-Grand Hall K,12,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Cedric Scherer,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2,Cedric Scherer
-Randolph 3,13,1-day,It's Not Just Code: Managing an Open Source Project,manage-os,Tracy Teal,Steal Like an Rtist: Creative Coding in R,gen-art,Ijeamaka Anyene & Sharla Gelfand
-Randolph 2,14,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Ryan Johnson & Katie Masiello,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python,Gagandeep Singh & Sam Edwardes
+room,no,type,day_1,day_1_slug,day_1_instructor,day_1_link,day_2,day_2_slug,day_2_instructor,day_2_link
+Michigan 2,1,2-day,DevOps for Data Scientists,devops,Rika Gorn,https://github.com/posit-conf-2023/devops,,,,
+Grand Hall GH,2,2-day,Causal Inference with R,causal-inference,Malcolm Barrett & Travis Gerke,https://r-causal.github.io/causal_workshop_website,,,,
+Randolph 1 AB,3,2-day,Introduction to Data Science with R,intro-ds-r,Posit Academy,https://intro-tidyverse-2023.netlify.app,,,,
+Grand Hall I,4,2-day,Tidy Time Series and Forecasting in R,forecasting,Rob Hyndman,https://posit-conf-2023.github.io/forecasting,,,,
+Grand Ballroom A,1,1-day,Advanced tidymodels,tidymodels-advanced,Max Kuhn,https://workshops.tidymodels.org,Advanced tidymodels,tidymodels-advanced,Max Kuhn,https://workshops.tidymodels.org
+Grand Ballroom B,2,1-day,Introduction to tidymodels,tidymodels-intro,Hannah Frick & Simon Couch & Emil Hvitfeldt,https://workshops.tidymodels.org,Deploy and Maintain Models with vetiver,modeling-deploy,Julia Silge,https://posit-conf-2023.github.io/vetiver
+Grand Hall L,3,1-day,Getting Started with Shiny for Python,shiny-python,Joe Cheng & Gordon Shotwell,https://posit-dev.github.io/shiny-python-workshop-2023,Enhancing Communication & Collaboration with Jupyter Notebooks & Quarto,quarto-python,Hamel Husain,https://hamelsmu.github.io/posit-python-quarto
+Michigan 1 ABC,4,1-day,Getting Started with Shiny for R,shiny-r,Garrick Aden-Buie & Colin Rundel,https://posit-conf-2023.github.io/shiny-r-intro,Shiny Dashboards,shiny-dashboard,Garrick Aden-Buie & Colin Rundel,https://posit-conf-2023.github.io/shiny-r-dashboard
+Grand Ballroom E,5,1-day,Web Design for Shiny Developers,shiny-ui,Maya Gans & David Granjon,https://webdesign4shiny.rinterface.com,Shiny in Production: Tools and Techniques,shiny-production,Eric Nantz & Mike Thomas,https://posit-conf-2023.github.io/shiny-r-prod
+Grand Ballroom F,6,1-day,Introduction to Quarto with R & RStudio,quarto-r-docs,Andrew Bray,https://posit-conf-2023.github.io/quarto-r,Advanced Quarto with R & RStudio,quarto-r-projects,Andrew Bray,https://posit-conf-2023.github.io/quarto-r
+Grand Hall MN,7,1-day,Introduction to Data Science with Python,intro-ds-python,Posit Academy,,Machine Learning and Deep Learning with Python,ml-python,Sebastian Raschka,https://github.com/posit-conf-2023/python-modeling
+Roosevelt 1 AB,8,1-day,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,https://github.com/posit-conf-2023/pkg-dev-masterclass,Package Development Masterclass,pkgdev-masterclass,Hadley Wickham,https://github.com/posit-conf-2023/pkg-dev-masterclass
+Roosevelt 3 AB,9,1-day,Fundamentals of Package Development,pkgdev,Andy Teucher,https://posit-conf-2023.github.io/pkg-dev,Fundamentals of Package Development,pkgdev,Andy Teucher,https://posit-conf-2023.github.io/pkg-dev
+Grand Hall J,10,1-day,What They Forgot to Teach You About R,wtf,Shannion Pileggi & David Aja,https://pos.it/wtf,From R User to R Programmer,programming-r,Emma Rand & Ian Lyttle,https://posit-conf-2023.github.io/programming-r
+Michigan 3,11,1-day,Big Data with Arrow,arrow,Nic Crane & Steph Hazlitt,https://posit-conf-2023.github.io/arrow,Teaching Data Science Masterclass,teach-ds,Mine Cetinkaya-Rundel,https://posit-conf-2023.github.io/teach-ds-masterclass
+Grand Hall K,12,1-day,Designing Data Visualizations to Successfully Tell a Story,dataviz-storytelling,Cedric Scherer,https://posit-conf-2023.github.io/dataviz-storytelling,Engaging and Beautiful Data Visualizations with ggplot2,dataviz-ggplot2,Cedric Scherer,https://posit-conf-2023.github.io/dataviz-ggplot2
+Randolph 3,13,1-day,It's Not Just Code: Managing an Open Source Project,managing-os-project,Tracy Teal,https://posit-conf-2023.github.io/managing-os-project,Steal Like an Rtist: Creative Coding in R,gen-art,Ijeamaka Anyene & Sharla Gelfand,https://github.com/posit-conf-2023/creative-coding
+Randolph 2,14,1-day,Data Science Workflows with Posit Tools - R Focus,ds-workflows-r,Ryan Johnson & Katie Masiello,https://katie.quarto.pub/ds-workflows-r,Data Science Workflows with Posit Tools - Python Focus,ds-workflows-python,Gagandeep Singh & Sam Edwardes,https://posit-conf-2023.github.io/ds-workflows-python

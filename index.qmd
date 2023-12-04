@@ -19,13 +19,13 @@ workshops <- read_csv("workshops.csv") |>
     day_2 = glue("[{day_2}](/workshops/{day_2_slug}/)"),
     day_2 = if_else(type == "2-day", "", day_2),
     day_2_instructor = if_else(type == "2-day", "", day_2_instructor),
+    day_2_link = if_else(type == "2-day", "", day_2_link),
     type = paste0("**", type, " workshops**")
   ) |>
   select(-room, -contains("slug")) 
 ```
 
 Choose one of the 2-day workshops or a 1-day workshop for each day.
-Go to <https://posit.co/conference> to register!
 
 ```{r}
 #| results: asis
@@ -63,12 +63,12 @@ workshops |>
     )
   ) |>
   cols_merge(
-    columns = c(day_1, day_1_instructor),
-    pattern = "{1}<br>&nbsp;&nbsp;{2}"
+    columns = c(day_1, day_1_instructor, day_1_link),
+    pattern = "{1}<br>&nbsp;&nbsp;{2}<br>&nbsp;&nbsp;{3}"
   ) |>
   cols_merge(
-    columns = c(day_2, day_2_instructor),
-    pattern = "{1}<br>&nbsp;&nbsp;{2}"
+    columns = c(day_2, day_2_instructor, day_2_link),
+    pattern = "{1}<br>&nbsp;&nbsp;{2}<br>&nbsp;&nbsp;{3}"
   ) |>
   tab_style(
     style = list(
