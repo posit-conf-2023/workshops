@@ -19,6 +19,8 @@ workshops <- read_csv("workshops.csv") |>
     day_2 = glue("[{day_2}](/workshops/{day_2_slug}/)"),
     day_2 = if_else(type == "2-day", "", day_2),
     day_2_instructor = if_else(type == "2-day", "", day_2_instructor),
+    day_1_link = glue("[{day_1_link}]({day_1_link})"),
+    day_2_link = glue("[{day_2_link}]({day_2_link})"),
     day_2_link = if_else(type == "2-day", "", day_2_link),
     type = paste0("**", type, " workshops**")
   ) |>
@@ -32,7 +34,7 @@ Choose one of the 2-day workshops or a 1-day workshop for each day.
 
 workshops |>
   gt(groupname_col = "type", process_md = TRUE) |>
-  fmt_url(columns = c(day_1, day_2)) |>
+  fmt_url(columns = c(day_1, day_2, day_1_link, day_2_link)) |>
   cols_width(
     no ~ pct(8),
     day_1 ~ pct(46),
